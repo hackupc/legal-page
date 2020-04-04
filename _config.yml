@@ -13,7 +13,7 @@ collections:
   documents:
     output: true
     layout: document
-    permalink: /:category/:title
+    permalink: /:categories/:title
 
 permalink: /:title
 
