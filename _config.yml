@@ -16,3 +16,6 @@ collections:
     permalink: /:category/:title
 
 permalink: /:title
+
+plugins:
+  - jekyll-last-modified-at

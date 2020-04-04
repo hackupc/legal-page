@@ -15,7 +15,7 @@
   <body>
     <main>{{ content }}
       <br>
-      Last edition: {{ site.time |  date: "%s" }}
+      Last document modification: {% last_modified_at %}
     </main>
   </body>
 </html>
