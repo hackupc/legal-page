@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "HackUPC Privacy and Cookies Policy"
-categories: hackupc
+category: hackupc
 ---
 # HackUPC Privacy and Cookies Policy
 

@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "HackUPC Terms and Conditions"
-categories: hackupc
+category: hackupc
 ---
 # HackUPC Terms and Conditions
 

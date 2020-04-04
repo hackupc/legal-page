@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "HackUPC Legal Notice"
-categories: hackupc
+category: hackupc
 ---
 # HackUPC Legal Notice
 

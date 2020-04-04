@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "Mentor guide"
-categories: hackupc
+category: hackupc
 ---
 # Mentor guide
 

@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "HackUPC Code of Conduct"
-categories: hackupc
+category: hackupc
 ---
 # HackUPC Code of Conduct
 
