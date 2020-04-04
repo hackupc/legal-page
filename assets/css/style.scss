@@ -73,7 +73,8 @@ main {
 		display: block;
 
 		a {
-			display: block;
+			display: flex;
+			align-items: center;
 			background-color: $mainColor;
 			color: #fff;
 			padding: 0.5rem;
