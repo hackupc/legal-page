@@ -38,6 +38,8 @@ table { border-collapse: collapse; }
 	max-width: 100%;
 	margin: 1em 0;
 }
+a { color: #204B9B; }
+::selection { background: #204B9B; color: #fff; }
 main {
 	background-color: white;
 	box-sizing: border-box;
