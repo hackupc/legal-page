@@ -1,18 +1,18 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">docs</h1>
+  <h1 class="page-heading">documents</h1>
 
-  <ul class="doc-list">
-    {% for doc in site.docs %}
+  <ul class="document-list">
+    {% for document in site.documents %}
       <li>
-        <span class="doc-meta">{{ doc.date | date: "%b %-d, %Y" }}</span>
+        <span class="document-meta">{{ document.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="doc-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+          <a class="document-link" href="{{ document.url | prepend: site.baseurl }}">{{ document.title }}</a>
         </h2>
       </li>
     {% endfor %}

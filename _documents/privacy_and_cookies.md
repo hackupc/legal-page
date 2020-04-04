@@ -1,3 +1,9 @@
+---
+layout: document
+title: "HackUPC Privacy and Cookies Policy"
+date: 2020-04-04 19:40:00
+categories: hackupc
+---
 # HackUPC Privacy and Cookies Policy
 
 In compliance with current regulations on the protection of personal data you are informed of the following aspects.

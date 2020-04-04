@@ -1,3 +1,9 @@
+---
+layout: document
+title: "HackUPC Terms and Conditions"
+date: 2020-04-04 19:40:00
+categories: hackupc
+---
 # HackUPC Terms and Conditions
 
 These Terms & Conditions (hereinafter, "T&C") are intended to regulate the relationship between ASSOCIACIÓ HACKERS AT UPC (hereinafter, "HACKERS AT UPC") and the Users who decide to sign up and participate in the event HackUPC organized by HACKERS AT UPC.

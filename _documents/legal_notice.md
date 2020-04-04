@@ -1,3 +1,9 @@
+---
+layout: document
+title: "HackUPC Legal Notice"
+date: 2020-04-04 19:40:00
+categories: hackupc
+---
 # HackUPC Legal Notice
 
 This Legal Notice is intended to regulate access and use and, in general, the relationship between this Website, accessible from the Internet address [https://hackupc.com](https://hackupc.com) (the "Website") and its Users.

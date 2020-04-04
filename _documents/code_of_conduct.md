@@ -1,3 +1,9 @@
+---
+layout: document
+title: "HackUPC Code of Conduct"
+date: 2020-04-04 19:40:00
+categories: hackupc
+---
 # HackUPC Code of Conduct
 
 This is the Code of Conduct that we expect all HackUPC participants to abide. This is a customized version of the Code of Conduct used at MLH Member Hackathons. If you have a suggestion for this code of conduct or a question about them, please [submit an issue](https://github.com/hackupc/rules/issues).
