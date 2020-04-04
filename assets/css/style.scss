@@ -64,6 +64,7 @@ main {
 .post-list {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, 120px);
+	gap: 1rem;
 
 	li {
 		display: block;
@@ -74,7 +75,9 @@ main {
 			color: #fff;
 			padding: 1rem;
 			font-weight: bold;
-			
+			text-decoration: none;
+			border-radius: 0.5rem;
+			text-align: center;
 		}
 	}
 }
