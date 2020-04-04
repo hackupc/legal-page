@@ -3,6 +3,8 @@ layout: document
 title: "HackUPC Terms and Conditions"
 date: 2020-04-04 19:40:00
 categories: hackupc
+subject: hackupc
+url: terms_abd_conditions
 ---
 # HackUPC Terms and Conditions
 

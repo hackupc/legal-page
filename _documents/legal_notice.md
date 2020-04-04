@@ -3,6 +3,8 @@ layout: document
 title: "HackUPC Legal Notice"
 date: 2020-04-04 19:40:00
 categories: hackupc
+subject: hackupc
+url: legal_notice
 ---
 # HackUPC Legal Notice
 

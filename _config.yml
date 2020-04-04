@@ -9,4 +9,4 @@ url: "https://legal.hackersatupc.org/" # the base hostname & protocol for your s
 twitter_username: hackersatupc
 github_username:  hackupc
 
-permalink: /:title
+permalink: /:subject/:url
