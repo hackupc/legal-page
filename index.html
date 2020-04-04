@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">docs</h1>
+
+  <ul class="doc-list">
+    {% for doc in site.docs %}
+      <li>
+        <span class="doc-meta">{{ doc.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="doc-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
