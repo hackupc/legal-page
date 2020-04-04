@@ -290,5 +290,3 @@ Everything related to Google's cookies, both analytical and advertising, as well
 - [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage).
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
-
-Last Reviewed: September 18, 2018.

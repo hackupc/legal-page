@@ -42,5 +42,3 @@ If you need to contact a team member directly, please contact one of our organiz
 - Oscar Faixat, @faix in Slack, [oscar@hackupc.com](mailto:oscar@hackupc.com).
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
-
-Last Reviewed: July 11, 2018.
