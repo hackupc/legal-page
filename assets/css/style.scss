@@ -63,8 +63,11 @@ main {
 
 .post-list {
 	display: grid;
-	grid-template-columns: repeat(auto-fill, 120px);
+	grid-template-columns: repeat(4, 1fr);
 	gap: 1rem;
+	padding: 0;
+	margin: 0;
+	justify-content: center;
 
 	li {
 		display: block;
@@ -73,11 +76,13 @@ main {
 			display: block;
 			background-color: $mainColor;
 			color: #fff;
-			padding: 1rem;
+			padding: 0.5rem;
 			font-weight: bold;
 			text-decoration: none;
 			border-radius: 0.5rem;
 			text-align: center;
+			height: 100%;
+			box-sizing: border-box;
 		}
 	}
 }
