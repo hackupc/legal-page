@@ -2,19 +2,13 @@
 layout: home
 ---
 
-<div class="home">
 
-  <h1 class="page-heading">documents</h1>
+<h1>Legal documents</h1>
 
-  <ul class="document-list">
-    {% for document in site.documents %}
-      <li>
-        <span class="document-meta">{{ document.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="document-link" href="{{ document.url | prepend: site.baseurl }}">{{ document.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<ul>
+  {% for document in site.documents %}
+    <li>
+      <a href="{{ document.url | prepend: site.baseurl }}">{{ document.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
