@@ -13,6 +13,6 @@ collections:
   documents:
     output: true
     layout: document
-    permalink: /:title
+    permalink: /:categories/:title
 
 permalink: /:title
