@@ -15,7 +15,7 @@
   <body>
     <main>{{ content }}
       <br>
-      Last document modification: {% last_modified_at %}
+      Last document modification: {{ page.last_modified_at | date: '%Y:%B:%A:%d:%S:%R' }}
     </main>
   </body>
 </html>
