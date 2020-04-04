@@ -8,12 +8,14 @@
 body{
   background: url('assets/img/background.png');
   margin: 0;
+  padding: 1rem;
 }
 
 main {
-  margin: 1rem;
   background: #fff;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
   padding: 2rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+  max-width: 800px;
+  margin: auto;
 }
