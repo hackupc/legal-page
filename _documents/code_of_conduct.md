@@ -1,6 +1,6 @@
 ---
+layout: document
 title: "HackUPC Code of Conduct"
-date: 2020-04-04 19:40:00
 categories: hackupc
 ---
 # HackUPC Code of Conduct
