@@ -2,15 +2,25 @@
 ---
 
 $mainColor: #204B9B;
+$background: url(/assets/img/background.png);
 
 * {
   font-family: 'Montserrat', sans-serif;
 }
 
 body{
-  background: url('/assets/img/background.png');
+  background: $background;
   margin: 0;
   padding: 1rem;
+}
+.bg {
+	background: $background;
+	z-index: -1;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
 }
 
 h1 {
