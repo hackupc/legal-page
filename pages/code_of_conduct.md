@@ -37,9 +37,9 @@ By sending us an email to contact@hackupc.com, your report will be received by o
 
 If you need to contact a team member directly, please contact one of our organizers below.
 
-- Andrea Querol, @dreaqdp in Slack, [andrea@hackupc.com](mailto:andrea@hackupc.com).
-- Maria Gonzalez, @maria in Slack, [maria@hackupc.com](mailto:maria@hackupc.com).
-- Oscar Faixat, @faix in Slack, [oscar@hackupc.com](mailto:oscar@hackupc.com).
+- Bernat Torres, @bernatixer in Slack, [bernat.torres@hackupc.com](mailto:bernat.torres@hackupc.com).
+- Gerard Palomares, @palo in Slack, [gerard.palomares@hackupc.com](mailto:gerard.palomares@hackupc.com).
+- Xavier Alaman, @alamanx in Slack, [xavier@hackupc.com](mailto:xavier@hackupc.com).
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
