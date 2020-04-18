@@ -4,7 +4,7 @@ This page contains public legal documents related to Hackers@UPC.It contains the
 
 ## Create a new document
 
-To add a new document, create a `.md` file inside [`/pages`](/pages) and use this template:
+To add a new document, create a `.md` file inside [`/_documents`](/_documents) and use this template:
 ```md
 ---
 layout: document
@@ -29,7 +29,7 @@ https://<span></span>legal.hackersatupc.org/`categories`/`my_document_filename`
 
 ## Edit an existing document
 
-Find your document in the [`/pages/`](/pages) folder and edit it's contents. 
+Find your document in the [`/_documents/`](/_documents) folder and edit it's contents. 
 
 ## Deploy
 
