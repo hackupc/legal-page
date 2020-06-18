@@ -58,7 +58,7 @@ HACKERS AT UPC reserves the right to prevent, block and/or remove from the Websi
 
 ## 6. CONFIDENTIALITY AND PERSONAL DATA PROTECTION
 
-In accordance with the current data protection legislation, particularly the Regulation (EU) 2016/679 of The European Parliament and of The Council, of 27 April, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, all personal data collected during the use of the Website will be processed in accordance with the provisions of the [Privacy and Cookies Policy](http://hackupc.com/privacy_and_cookies/) which all Users must expressly accept.
+In accordance with the current data protection legislation, particularly the Regulation (EU) 2016/679 of The European Parliament and of The Council, of 27 April, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, all personal data collected during the use of the Website will be processed in accordance with the provisions of the [Privacy and Cookies Policy](https://legal.hackersatupc.org/hackupc/privacy_and_cookies) which all Users must expressly accept.
 
 ## 7. APPLICABLE LAW AND JURISDICTION
 
