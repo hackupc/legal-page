@@ -3,13 +3,14 @@
 
 $mainColor: #204B9B;
 $background: url(/assets/img/background.png);
+$background-color: #f4f4f4;
 
 * {
   font-family: 'Montserrat', sans-serif;
 }
 
 body{
-  background: $background;
+  background: $background-color $background;
   margin: 0;
   padding: 1rem;
 }
