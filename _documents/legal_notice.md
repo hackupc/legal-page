@@ -74,6 +74,6 @@ The information contained in these pages is current as of the date of the last u
 
 HACKERS AT UPC reserves the right to modify this Legal Notice at any time and to restrict access temporarily or permanently, indicating in the heading of this Legal Notice the date of the last modification.
 
-If you do not agree with any updates, please contact HACKERS AT UPC ([contact@hackupc.com](mailto:contact@hackupc.com)).
+If you do not agree with any updates, please contact HACKERS AT UPC ([info@hackersatupc.org](mailto:info@hackersatupc.org)).
 
 Last Reviewed: July 10, 2018.
