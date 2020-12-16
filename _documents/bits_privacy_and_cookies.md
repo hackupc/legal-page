@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "Bitsxlamarato live Privacy and Cookies Policy"
-category: bitsxlamarato
+category: bits
 ---
 # Talks & Workshops Privacy and Cookies Policy
 
