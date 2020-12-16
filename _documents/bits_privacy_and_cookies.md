@@ -187,4 +187,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: November 23, 2020.
+Last Reviewed: December 16, 2020.

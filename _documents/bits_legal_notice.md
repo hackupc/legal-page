@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "bitsxlamarato Live Legal Notice"
-category: bitsxlamarato
+category: bits
 ---
 # Bitsxlamarato live Legal Notice
 
@@ -76,4 +76,4 @@ HACKERS AT UPC reserves the right to modify this Legal Notice at any time and to
 
 If you do not agree with any updates, please contact HACKERS AT UPC ([info@hackersatupc.org](mailto:info@hackersatupc.org)).
 
-Last Reviewed: November 23, 2020.
+Last Reviewed: December 16, 2020.
