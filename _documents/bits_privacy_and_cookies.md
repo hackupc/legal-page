@@ -43,12 +43,12 @@ HACKERS AT UPC has hired technology service providers located in countries that 
 For further information regarding warranties to your privacy, you may contact HACKERS AT UPC at the electronic or postal addresses previously indicated.
 
 
-## 7. HOW LONG WE WILL STORE YOUR DATA
+## 6. HOW LONG WE WILL STORE YOUR DATA
 
 Your personal data will be stored while your relationship with HACKERS AT UPC is ongoing and, once said relationship is terminated for whatever cause, for the applicable legal terms. Once the relationship is terminated, your data will be processed solely to the effects of demonstrating compliance with the legal or contractual obligations of the Company. Once said legal terms are met, your data will be eliminated or, alternatively, anonymized.
 
 
-## 8. WHAT ARE YOUR RIGHTS
+## 7. WHAT ARE YOUR RIGHTS
 
 We inform you that you have a right to access your personal data, rectify inaccurate data, request their erasure when they are no longer necessary, oppose or limit the processing or request the portability of the data, through the postal and electronic addresses indicated.
 
@@ -58,14 +58,14 @@ Furthermore, if you consider the processing of your personal data violates the r
 - To the Spanish Data Protection Agency (Agencia Española de Protección de Datos) through its electronic or postal addresses.
 
 
-## 9. WARNING TO MINORS
+## 8. WARNING TO MINORS
 
 HACKERS AT UPC hereby informs you that minors under the age of 14 may not register on this Website and, therefore, they may not take part in promotional campaigns that HACKERS AT UPC may conduct in relation to its activity.
 
 Furthermore, you are informed that if you are aged over 14 but under 18, it is recommended that you tell your parents or legal guardians that you intend to access the Website before doing so, in order that the former explain to you the implications of these Terms and Conditions and, specifically, of the Privacy and Cookies Policy contained herein, as well as elucidating on the possible uses to be made of this Website, notwithstanding the specific cases in which by law the parents or legal guardians of minors between the ages of 14 and 18 must give their consent for their personal data to be processed.
 
 
-## 10. COOKIES
+## 9. COOKIES
 
 ### **What are cookies and how we use them?**
 
