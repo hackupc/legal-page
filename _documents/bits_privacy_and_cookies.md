@@ -3,7 +3,7 @@ layout: document
 title: "Bitsxlamarato live Privacy and Cookies Policy"
 category: bits
 ---
-# Talks & Workshops Privacy and Cookies Policy
+# bitsxlamarato Privacy and Cookies Policy
 
 In compliance with current regulations on the protection of personal data you are informed of the following aspects.
 
