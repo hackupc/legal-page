@@ -17,7 +17,9 @@ For the purposes of this Agreement, the parties agree that, when used capitalize
 
 **The "Attendee"** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer in any other role that is not the role of Participant. It includes the following: Sponsor, Judge, Mentor, Organizer, Volunteer and other attendees.
 
-**The event "HackUPC"** refers to the Event organized by the Organizer, which is a Hackathon. Hackathons are awesome events full of creativity, technology and passionate tech-related students collaborating and creating.
+**The event "HackUPC"** refers to the Event organized by the Organizer, which is a Hackathon. Hackathons are awesome events full of creativity, technology and passionate tech-related students collaborating and creating. This year, 2021, eventually HackUPC will be held online using our own or third party services such as online platforms for colaboration, communications and participants registration.
+
+**The "Swag"** refers to any gift provided by The Organizer or any HackUPC sponsor or partner in any physical or online form with no cost. 
 
 ## CLAUSES
 
@@ -41,8 +43,9 @@ Remember that Hackathons are like marathons. Some people go to compete but most 
 
 1. There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for each member of the team, independently of the team size.
 1. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in their free time, accepting the extra difficulty of hacking and volunteering at the same time, but their role won't give them any judging advantage in front of the rest of participants.
-1. All team members should be present at the event. Leaving the venue for some time to hack elsewhere or sleep is fine.
-1. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
+1. All team members should be accepted into the hackathon by the organization and registered into the online platforms used before and during the event.
+1. All team members should be reachable by any member of the organization team during the event.
+1. Teams can of course gain advice and support from organizers, volunteers, sponsors, mentors and other related people to the hackathon.
 1. All work on a project should be done at the Hackathon.
 1. Teams can use an idea they had before the event.
 1. Teams can work on ideas that have already been done. Hacks do not have to be "innovative". If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it's hard to find something that's fully original and teams might not know an idea has been done before anyway.
@@ -50,13 +53,14 @@ Remember that Hackathons are like marathons. Some people go to compete but most 
 1. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 1. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the Hackathon in determining the winners.
 1. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
-1. Participants who asked for a travel reimbursement need to post a project before the deadline in order to get the reimbursement.
 1. Projects that violate the Code of Conduct are not allowed (clause 3).
 1. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the Code of Conduct, or other unsporting behaviour.
 
-### Demos
+### Demos 
 
 After hacking finishes, teams will show their projects to each other and to the judges.
+
+In order to present your project to hackUPC judges and sponsors you would need to be able to sing up and log in to third party services complining with the applicable law of your country. Agreeing with the terms and conditions of any third party service suggested, used or proposed by the organization.
 
 You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
@@ -83,16 +87,6 @@ It's important to note that these judging criteria **do not include**:
 
 So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon.
 
-### Travel reimbursement
-
-If you have been elected to receive a travel reimbursement, we will contact you after the Hackathon to send it to you. You will receive a maximum that has been specified on the email, based on current travelling prices and distances.
-
-Requirements to receive travel reimbursement are:
-
-- Received an email with travel reimbursement amount.
-- Travel reimbursement receipts submitted before the end of HackUPC or before the date specified by the HackUPC Team.
-- Project submitted to Devpost before the due date.
-
 ### Cheating
 
 Any cheating allegations will be resolved according to the HackUPC Cheating Response Procedure (clause 4).
@@ -102,48 +96,13 @@ Any cheating allegations will be resolved according to the HackUPC Cheating Resp
 The competition is just a part of the Hackathon. To make the most out of the event, try something new, teach other people, and make new friends! Happy Hacking from the HackUPC team!
 
 ## 3. CODE OF CONDUCT
+You can find it [here](https://legal.hackersatupc.org/hackupc/code_of_conduct)
 
-This is the Code of Conduct that we expect all HackUPC participants to abide. This is a customized version of the Code of Conduct used at MLH Member Hackathons. If you have a suggestion for this code of conduct or a question about them, please [submit an issue](https://github.com/hackupc/rules/issues).
+## 4. SWAG
 
-### TL;DR
+The organization may send swag to sponsors and attendees. Still, The organization keeps the right to decide which attendees and sponsors will recive swag. Without the obligation or need to make public the followed criteria.   
 
-Be respectful. Harassment and abuse are never tolerated.
-
-### The Code of Conduct
-
-At HACKERS AT UPC we believe that every participant has the right to hack in a safe and welcoming environment.
-
-Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, social class, economic status, veteran status, sexual images, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. If what you're doing is making someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it.
-
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Sponsors, judges, mentors, volunteers, organizers, and anyone else at the event are also subject to the anti-harassment policy. In particular, attendees should not use sexualised images, activities, or other material both in their hacks and during the event. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
-
-If a participant engages in harassing behavior, HACKERS AT UPC may take any action it deems appropriate, including warning the offender or expulsion from the event with no eligibility for reimbursement or refund of any type.
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact HACKERS AT UPC using the reporting procedures defined below.
-
-Event organizers will be happy to help participants contact campus security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
-
-This event has a strict "No Drugs" and "No Alcohol" policy. Please do not bring your own. Tobacco smoking is allowed only in designated areas.
-
-We expect participants to follow these rules at all hackathon venues, online interactions in relation to the event, hackathon-related social events, and on hackathon supplied transportation.
-
-### Reporting Procedures
-
-If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous.
-
-By sending us an email to contact@hackupc.com, your report will be received by our organizers. If you want to remain anonymous please send us an email through an anonymous email service or create a temporary email account.
-
-If you need to contact a team member directly, please contact one of our organizers below.
-
-- Andrea Querol, @dreaqdp in Slack, [andrea@hackupc.com](mailto:andrea@hackupc.com).
-- Maria Gonzalez, @maria in Slack, [maria@hackupc.com](mailto:maria@hackupc.com).
-- Oscar Faixat, @faix in Slack, [oscar@hackupc.com](mailto:oscar@hackupc.com).
-
-HACKERS AT UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
-
-## 4. HackUPC CHEATING RESPONSE PROCEDURE
+## 5. HackUPC CHEATING RESPONSE PROCEDURE
 
 ### Procedure
 
@@ -204,7 +163,7 @@ Depending on the cheating allegation, HACKERS AT UPC may decide to make one or m
 
 If some attendees were angered by the cheating, it is best to apologize to them that the cheating occurred to begin with.
 
-## 5. TERMINATION AND CANCELLATION
+## 6. TERMINATION AND CANCELLATION
 
 HACKERS AT UPC may at any time, in its sole discretion, immediately terminate this Agreement with or without cause. HACKERS AT UPC will make commercially reasonable efforts to notify the Participant or Attendee via e-mail of any such termination or cancellation up to the date of the event.
 
@@ -212,7 +171,7 @@ Participants or Attendees may cancel and/or terminate this Agreement with or wit
 
 If either party does not fulfil a material obligation defined in this Agreement, the other party has the right to terminate this Agreement immediately with written notice to the party in breach, provided that such material breach remains uncured, without prejudice of the right to claim the damages caused to the non-breaching party.
 
-## 6. CONFIDENTIALITY, PERSONAL DATA PROTECTION AND RIGHTS OF IMAGE
+## 7. CONFIDENTIALITY, PERSONAL DATA PROTECTION AND RIGHTS OF IMAGE
 
 In accordance with the current data protection legislation, particularly the Regulation (EU) 2016/679 of The European Parliament and of The Council, of 27 April, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, all personal data collected during the use of the Website will be processed in accordance with the provisions of the [Privacy and Cookies Policy](hackupc.com/privacy_and_cookies/) which all Users must expressly accept.
 
@@ -224,7 +183,7 @@ As it is explained in the Privacy Policy, one of the personal data that you auth
 - This authorization is made completely free of charge, and you undertake not to request or claim any compensation, payment or reimbursement in exchange for this authorization.
 - When the photographs and/or videos are taken by HACKERS AT UPC, the applicable Privacy Policy will be the HACKERS AT UPC's Privacy and Cookies Policy. When the photographs and/or videos are taken by a Sponsor, the applicable Privacy Policy will be the Sponsor's Privacy Policy.
 
-## 7. LIMITATION OF LIABILITY AND INDEMNIFICATION
+## 8. LIMITATION OF LIABILITY AND INDEMNIFICATION
 
 ### Indemnification
 
@@ -234,13 +193,13 @@ You agree to indemnify, defend and hold HACKERS AT UPC, its members (hosts and v
 
 UNDER NO CIRCUMSTANCES WILL HACKERS AT UPC BE LIABLE TO THE PARTICIPANT OR ATTENDEE WITH RESPECT TO ANY SUBJECT MATTER OF THESE TERMS AND CONDITIONS UNDER CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY, WHETHER OR NOT HACKERS AT UPC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING FROM ANY PROVISION OF THESE TERMS. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE.
 
-## 8. MODIFICATIONS
+## 9. MODIFICATIONS
 
 HACKERS AT UPC reserves the right to amend the provisions of the present Agreement that are minor in scope or nature, and to do so without citing any reasons, provided such modifications do not lead to the Agreement as a whole being restructured. HACKERS AT UPC will communicate, by e-mail or other electronic means, the modified conditions at least 15 days prior to the Effective Date. Participants or Attendees who do not object in writing to the modification within 7 days after the receipt of the communication will be deemed to have accepted the respective modification.
 
 If a Participant or Attendee objects to the new (modified) Terms, HACKERS AT UPC´s request to modify them will be deemed to have been rejected. The Agreement will then be continued without the proposed modification only in relation to such particular event where the change was made while the Participant or Attendee was already registered, however, the new T&C with all modifications will fully apply for any new event. The right of the parties to terminate their participation in the event HackUPC remains unaffected hereby.
 
-## 9. APPLICABLE LAW AND JURISDICTION
+## 10. APPLICABLE LAW AND JURISDICTION
 
 This Agreement shall be governed by Spanish law.
 
@@ -248,7 +207,7 @@ In the event that the User's domicile is outside Spain, HACKERS AT UPC and the P
 
 HACKERS AT UPC will pursue the breach of this Agreement by exercising all civil and criminal actions that may correspond.
 
-## 10. GENERAL PROVISIONS
+## 11. GENERAL PROVISIONS
 
 ### Force Majeure
 
@@ -298,4 +257,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: July 17, 2019.
+Last Reviewed: March 24, 2021.
