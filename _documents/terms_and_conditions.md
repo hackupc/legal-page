@@ -112,7 +112,7 @@ Each winner will be responsible for complying with the tax and accounting obliga
 
 ### Cheating
 
-Any cheating allegations will be resolved according to the HackUPC Cheating Response Procedure (clause 4).
+Any cheating allegations will be resolved according to the HackUPC Cheating Response Procedure (clause 5).
 
 ### Remember!
 
@@ -221,7 +221,8 @@ UNDER NO CIRCUMSTANCES WILL HACKERS AT UPC BE LIABLE TO THE PARTICIPANT OR ATTEN
 
 HACKERS AT UPC reserves the right to amend the provisions of the present Agreement that are minor in scope or nature, and to do so without citing any reasons, provided such modifications do not lead to the Agreement as a whole being restructured. HACKERS AT UPC will communicate, by e-mail or other electronic means, the modified conditions at least 15 days prior to the Effective Date. Participants or Attendees who do not object in writing to the modification within 7 days after the receipt of the communication will be deemed to have accepted the respective modification.
 
-If a Participant or Attendee objects to the new (modified) Terms, HACKERS AT UPC´s request to modify them will be deemed to have been rejected. The Agreement will then be continued without the proposed modification only in relation to such particular event where the change was made while the Participant or Attendee was already registered, however, the new T&C with all modifications will fully apply for any new event. The right of the parties to terminate their participation in the event HackUPC remains unaffected hereby.
+If a Participant or Attendee objects to the new (modified) Terms, Then the Agreement between the two parts will be terminated (clause 6). The organizer , once the agreement is terminated, won't consider the participation of the participant unless the new terms and conditions are accepted again in a new application process to the Event following the standard acceptance process. 
+
 
 ## 10. APPLICABLE LAW AND JURISDICTION
 
