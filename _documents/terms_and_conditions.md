@@ -87,6 +87,28 @@ It's important to note that these judging criteria **do not include**:
 
 So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon.
 
+### Prizes
+The prizes shall be transferred using one of the following methods: 
+- via wire transfer to a bank account specified by the winner
+- via amazon or other store voucher purchased in Spain using Euros with a value equivalent to the prize won
+- physically being sent to the participant direction provided when applying to the event
+after the announcement of the winners by the Organizer. 
+
+The Organizer keeps the right to decide which one of the methods mentioned above is used to send the prizes to each winner, without the need or obligation to make public the followed criteria. The no acceptance of the method chosen by the Organizer will be cause for withdrawal of the prize. 
+
+The Organizer shall not take any responsibility for the failure of the participant to avail the prize due to inaccurate information provided by the participant. The Organizer reserves the right to replace any winner if we discover that the winner is or was in breach of these general terms and conditions.
+
+- Prizes are non-exchangeable.
+- Quoted prizes might be taxable in your jurisdiction and each winner will be solely responsible for complying with any and all applicable federal, state, provincial, local, or other statutes, regulations, and other laws and for bearing any personal, income, VAT, GST, withholding taxes, customs duties, or other taxes, fees, insurance, surcharges or other costs relating to any reward.
+- If the Organizer is obliged to withhold taxes under the applicable laws, the Organizer will do so without any notice.
+- The Organizer will cooperate and issue any documents that might be required for tax purposes, but it is the Participant’s obligation to request and collect such documents.
+
+All prize winners will be obliged to provide all their tax details to the Organizer, so that the latter can comply with all the formal obligations arising from this promotion. The Organizer will make available to the winners, within the period legally established for this purpose, the certificates of withholdings made.
+
+In order to carry out the delivery of the prize, the winners must provide all information required by the Organizer or third parties on its behalf, such as identity documents, passports, etc.; any delay or failure to provide the required documentation and/or information will be cause for withdrawal of the prize.
+
+Each winner will be responsible for complying with the tax and accounting obligations involved in obtaining the prize for personal taxation purposes..
+
 ### Cheating
 
 Any cheating allegations will be resolved according to the HackUPC Cheating Response Procedure (clause 4).
@@ -100,7 +122,8 @@ You can find it [here](https://legal.hackersatupc.org/hackupc/code_of_conduct)
 
 ## 4. SWAG
 
-The organization may send swag to sponsors and attendees. Still, The organization keeps the right to decide which attendees and sponsors will recive swag. Without the obligation or need to make public the followed criteria.   
+- The organization may send swag to sponsors and attendees. Expenses incurred by team members as a result of sending merchandising, as well as the acceptance of the prize, will be borne by the winner of the prize.
+- Still, The organization keeps the right to decide which attendees and sponsors will recive swag. Without the obligation or need to make public the followed criteria.
 
 ## 5. HackUPC CHEATING RESPONSE PROCEDURE
 
@@ -257,4 +280,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: March 24, 2021.
+Last Reviewed: April 30, 2021.
