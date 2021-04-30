@@ -89,9 +89,10 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 ### Prizes
 The prizes shall be transferred using one of the following methods: 
-- via wire transfer to a bank account specified by the winner
+- via wire transfer to a bank account specified by the winner,
 - via amazon or other store voucher purchased in Spain using Euros with a value equivalent to the prize won
-- physically being sent to the participant direction provided when applying to the event
+- or physically being sent to the participant direction provided when applying to the event
+
 after the announcement of the winners by the Organizer. 
 
 The Organizer keeps the right to decide which one of the methods mentioned above is used to send the prizes to each winner, without the need or obligation to make public the followed criteria. The no acceptance of the method chosen by the Organizer will be cause for withdrawal of the prize. 
