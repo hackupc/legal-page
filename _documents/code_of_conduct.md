@@ -37,9 +37,9 @@ By sending us an email to contact@hackupc.com, your report will be received by o
 
 If you need to contact a team member directly, please contact one of our organizers below.
 
-- Bernat Torres, @bernatixer in Discord, [bernat.torres@hackupc.com](mailto:bernat.torres@hackupc.com).
-- Gerard Palomares, @palo in Discord, [gerard.palomares@hackupc.com](mailto:gerard.palomares@hackupc.com).
-- Xavier Alaman, @alamanx in Discord, [xavier@hackupc.com](mailto:xavier@hackupc.com).
+- Bernat Torres, **[Org] Bernat** in Discord, [bernat.torres@hackupc.com](mailto:bernat.torres@hackupc.com).
+- Gerard Palomares, **[Org] Gerard** in Discord, [gerard.palomares@hackupc.com](mailto:gerard.palomares@hackupc.com).
+- Xavier Alaman, **[Org] Xavi** in Discord, [xavier@hackupc.com](mailto:xavier@hackupc.com).
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
