@@ -43,7 +43,6 @@ HackUPC will be held in an hybrid format. This means that there will be two moda
 - Online participants by accepting this T&C renounce to recieve any kind of compensation for not recieving food and a place to sleep by the organization.
 - Only Online participants living in spain are elegible to participate and win in any kind of online giveaway.
 - Prizes of activities organized by the organization may differ depending on the type of activity(Online, On site, both) and the winner (On site Participant or Online participant).
-- 
 
 ## 3. HackUPC COMPETITION RULES
 
@@ -109,11 +108,12 @@ The prizes shall be transferred using one of the following methods:
 
 - via wire transfer to a bank account specified by the winner,
 - via amazon or other store voucher purchased in Spain using Euros with a value equivalent to the prize won
-- or physically being sent to the participant direction provided when applying to the event
+- physically being sent to the participant direction provided when applying to the event
+- or phisically during the Event. 
 
 after the announcement of the winners by the Organizer.
 
-The Organizer keeps the right to decide which one of the methods mentioned above is used to send the prizes to each winner, without the need or obligation to make public the followed criteria. The no acceptance of the method chosen by the Organizer will be cause for withdrawal of the prize.
+The Organizer keeps the right to decide which one of the methods mentioned above is used to transfer the prizes to each winner, without the need or obligation to make public the followed criteria. The no acceptance of the method chosen by the Organizer will be cause for withdrawal of the prize.
 
 The Organizer shall not take any responsibility for the failure of the participant to avail the prize due to inaccurate information provided by the participant. The Organizer reserves the right to replace any winner if we discover that the winner is or was in breach of these general terms and conditions.
 
@@ -147,7 +147,7 @@ Due to the exceptional situation that we are living in at this moment, we need t
 
 - Subject to government regulations, restrictions, and recommendations by the time the hackathon takes place The Organization will provide a place to sleep for on-site participants. The Organization keeps the right to cancel this at any time without the need of previous warning, also the participants by accepting this T&C renounce receiving any kind of compensation in case The Organization is not able to provide a place to sleep.
 
-- All on-site participants need to provide a COVID certificate to assist presciently to the event. In the case of international on-site participants, they will need to provide a valid certificate easily validated by QR or similar. In case this is not possible on-site participants will need to show a valid PCR done at least 24h before the event.
+- All on-site participants will need to provide a COVID certificate to assist presciently to the event. International on-site participants will need to provide a valid certificate easy to validate by QR or similar. In case this is not possible on-site participants will need to show a valid PCR done at least 24h before the event.
 
 - The organization can change the modality of a participant from on-site to online without the need of providing the followed criteria. The participant by accepting this T&C renounce to receive any kind of compensation in case The organization does this change.
 
@@ -316,4 +316,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: December 15, 2021.
+Last Reviewed: December 16, 2021.
