@@ -38,11 +38,11 @@ HACKERS AT UPC is an association that promotes technology, creativity, and innov
 HackUPC will be held in an hybrid format. This means that there will be two modalities of participation: online and on site. 
 
 - On site Participants and Online participants may receive different swag.
-- Online participants by accepting this T&C renounce to receive any kind of compensation for not receiving the same swag as On site Participants.
+- Online Participants by accepting this T&C renounce to receive any kind of compensation for not receiving the same swag as On site Participants.
 - On site Participants may receive food and a a place to sleep(to be determined by the organization) during the hackathon from the organization.
-- Online participants by accepting this T&C renounce to receive any kind of compensation for not receiving food and a place to sleep by the organization.
-- Only Online participants living in Spain are eligible to participate and win in any kind of online giveaway.
-- Prizes of activities organized by the organization may differ depending on the type of activity(Online, On site, both) and the winner (On site Participant or Online participant).
+- Online Participants by accepting this T&C renounce to receive any kind of compensation for not receiving food and a place to sleep by the organization.
+- Only Online Participants living in Spain are eligible to participate and win in any kind of online giveaway.
+- Prizes of activities organized by the organization may differ depending on the type of activity(Online, On site, both) and the winner (On site Participant or Online Participant).
 
 ## 3. HackUPC COMPETITION RULES
 
