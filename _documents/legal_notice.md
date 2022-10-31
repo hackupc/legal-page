@@ -9,7 +9,7 @@ This Legal Notice is intended to regulate access and use and, in general, the re
 
 ## 1. IDENTITY OF THE SERVICE PROVIDER
 
-The owner of this Website is ASSOCIACIÓ HACKERS AT UPC (hereinafter, “HACKERS AT UPC”) with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1, Campus Nord UPC, Edifici Omega, D.S103, 08034, Barcelona (Spain) and contact e-mail address [contact@hackupc.com](mailto:contact@hackupc.com).
+The owner of this Website is ASSOCIACIÓ HACKERS AT UPC (hereinafter, “HACKERS AT UPC”) with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) and contact e-mail address [contact@hackupc.com](mailto:contact@hackupc.com).
 
 This Website is informative, open and available to the public. The access to the Website attributes to the person who carries it out the condition of User, who accepts from that moment on, fully and without any reservation, the conditions contained in this Legal Notice.
 
@@ -76,4 +76,4 @@ HACKERS AT UPC reserves the right to modify this Legal Notice at any time and to
 
 If you do not agree with any updates, please contact HACKERS AT UPC ([info@hackersatupc.org](mailto:info@hackersatupc.org)).
 
-Last Reviewed: July 10, 2018.
+Last Reviewed: October 31, 2022.

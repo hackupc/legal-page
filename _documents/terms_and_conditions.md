@@ -11,7 +11,7 @@ For the purposes of this Agreement, the parties agree that, when used capitalize
 
 ## DEFINITIONS
 
-**The "Organizer"** refers to HACKERS AT UPC, with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1, Campus Nord UPC, Edifici Omega, D.S103, 08034, Barcelona (Spain) and contact e-mail address [contact@hackupc.com](mailto:contact@hackupc.com).
+**The "Organizer"** refers to HACKERS AT UPC, with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) and contact e-mail address [contact@hackupc.com](mailto:contact@hackupc.com).
 
 **The "On site Participant"** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer by competing in the Hackathon.
 
@@ -316,4 +316,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: December 16, 2021.
+Last Reviewed: October 31, 2022.
