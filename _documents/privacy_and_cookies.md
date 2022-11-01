@@ -28,7 +28,17 @@ Here are the details of which personal data is collected when you register as a 
 - Data on personal characteristics: Sex, if you are a minor and t-shirt size.
 - Academic and professional data: CV, year of graduation, university, current studies and a link to professional profiles on-line (github, linkedin, devpost).
 - Economic and financial data: E-mail related to your PayPal account.
-- Other information: Account password and last connection.
+- Health data: Food allergies and intolerances.
+- Other information: Account password, last connection and dietary preferences.
+
+Here are the details of which personal data is collected when you register as a Volunteer:
+
+- Identifying data: Name, surname/s and images or videos of yourself.
+- Contact data: E-mail and phone number.
+- Data on personal characteristics: Sex, if you are a minor, t-shirt size.
+- Academic and professional data: University, current studies and previous experience.
+- Health data: Food allergies and intolerances.
+- Other information: Account password and dietary preferences.
 
 Here are the details of which personal data is collected when you register as an Organizer:
 
@@ -38,20 +48,24 @@ Here are the details of which personal data is collected when you register as an
 - Data on personal characteristics: T-shirt size.
 - Economic and financial data: Bank account.
 - Health data: Food allergies and intolerances.
-- Other information: Account password, dietary preferences.
+- Other information: Account password, last connection and dietary preferences.
 - Academic Data and professional data: Current studies, year of studies, link to professional profiles online (GitHub, LinkedIn).
 
 Here are the details of which personal data is collected when you register as a Judge or a Mentor:
 
-- Identifying data: Name, surname/s, adress, zip code, images or videos of yourself and links to social media and personal websites, discord user and id.
+- Identifying data: Name, surname/s, adress, zip code, images or videos of yourself and links to social media and personal websites.
 - Contact data: E-mail and phone number.
 - Data on personal characteristics: Sex and t-shirt size.
+- Health data: Food allergies and intolerances.
+- Other information: Account password, last connection and dietary preferences.
 
 Here are the details of which personal data is collected when you register as a Sponsor, discord user and id:
 
 - Identifying data: Name, surname/s, adress, zip code,  and images or videos of the contact person or the employee of the Sponsor.
 - Business contact data: Corporate e-mail of the contact person or the employee of the Sponsor. We also collect what company you are working for currently as well as your Job title.
 - Data on personal characteristics: Sex and t-shirt size.
+- Health data: Food allergies and intolerances.
+- Other information: Dietary preferences.
 
 Here are the details of which personal data is collected during a HackUPC CHEATING RESPONSE PROCEDURE:
 
