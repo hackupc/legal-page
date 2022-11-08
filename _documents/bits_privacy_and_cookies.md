@@ -1,6 +1,6 @@
 ---
 layout: document
-title: "Bitsxlamarato live Privacy and Cookies Policy"
+title: "bitsxlaMarato live Privacy and Cookies Policy"
 category: bits
 ---
 # bitsxlamarato Privacy and Cookies Policy
@@ -11,7 +11,7 @@ In compliance with current regulations on the protection of personal data you ar
 
 ASSOCIACIÓ HACKERS AT UPC (hereinafter, “HACKERS AT UPC”) with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1-3, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) is the Data Controller of the processing of your personal data jointly with
 
-FACULTAT D'INFORMÀTICA DE BARCELONA (hereinafter, "FIB") with NIF/VAT and address at address at C/Jordi Girona, num. 1-3, Campus Nord UPC, Edifici B6, 08034, Barcelona (Spain), acting as Joint Controller of your personal data.
+FACULTAT D'INFORMÀTICA DE BARCELONA (hereinafter, "FIB") with NIF/VAT Q-0818003F and address at C/Jordi Girona, num. 1-3, Campus Nord UPC, Edifici B6, 08034, Barcelona (Spain), acting as Joint Controller of your personal data.
 
 
 You may contact HACKERS AT UPC and/or FIB in the postal address previously indicated or in the following email address for any query, request or clarification regarding the processing of your personal data: [info@hackersatupc.org](mailto:info@hackersatupc.org).
