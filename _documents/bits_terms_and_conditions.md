@@ -98,14 +98,15 @@ The prizes shall be transferred using one of the following methods:
 - physically being sent to the participant direction provided when applying to the event
 - or phisically during the Event. 
 
-
 after the announcement of the winners by the Organizers.
 
-In the case of ECTS credits, these are prizes that FIB rewards to those hackers who have presented a balid project to the judges and belong to an eligible UPC faculty and/or degree. These prizes shall be transferred using one of the following methods:
+In the case of ECTS credits, these are prizes that FIB rewards to those hackers who have presented a valid project to the judges and belong to an eligible UPC faculty and/or degree. These prizes shall be transferred using one of the following methods:
 
 - through the official platforms and services that FIB uses to manage their students.
 
-The Organizers keeps the right to decide which one of the methods mentioned above is used to transfer the prizes to each winner, without the need or obligation to make public the followed criteria. The no acceptance of the method chosen by the Organizers will be cause for withdrawal of the prize.
+after the projects have been reviewed and the event has ended.
+
+The Organizers keep the right to decide which one of the methods mentioned above is used to transfer the prizes to each winner, without the need or obligation to make public the followed criteria. The no acceptance of the method chosen by the Organizers will be cause for withdrawal of the prize.
 
 The Organizers shall not take any responsibility for the failure of the participant to avail the prize due to inaccurate information provided by the participant. The Organizers reserves the right to replace any winner if we discover that the winner is or was in breach of these general terms and conditions.
 
