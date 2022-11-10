@@ -8,7 +8,7 @@ category: hackers
 ## DATA CONTROLLER
 
 ASSOCIACIÓ HACKERS AT UPC (hereinafter, “HACKERS AT UPC”) with NIF/VAT G66642778 and
-address at C/ Jordi Girona, num. 1-3, Campus Nord UPC, Edifici Omega, D.S103, 08034, Barcelona
+address at C/ Jordi Girona, num. 1-3, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona
 (Spain) is the Data Controller of the processing of your personal business contact data.
 You may contact HACKERS AT UPC in the postal address previously indicated or in the following email
 address for any query, request or clarification regarding the processing of your personal data:

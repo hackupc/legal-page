@@ -9,7 +9,7 @@ In compliance with current regulations on the protection of personal data you ar
 
 ## 1. DATA CONTROLLER
 
-ASSOCIACIÓ HACKERS AT UPC (hereinafter, “HACKERS AT UPC”) with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1-3, Campus Nord UPC, Edifici Omega, D.S103, 08034, Barcelona (Spain) is the Data Controller of the processing of your personal data.
+ASSOCIACIÓ HACKERS AT UPC (hereinafter, “HACKERS AT UPC”) with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1-3, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) is the Data Controller of the processing of your personal data.
 
 You may contact HACKERS AT UPC in the postal address previously indicated or in the following email address for any query, request or clarification regarding the processing of your personal data: [contact@hackupc.com](mailto:contact@hackupc.com).
 
@@ -17,18 +17,28 @@ You may contact HACKERS AT UPC in the postal address previously indicated or in 
 
 HACKERS AT UPC shall process the following personal data: (i) Any initial data that you voluntarily provide related to a request to register as a participant, information requests made to our company, requests to take part in promotions or requests to receive any of the services offered by HACKERS AUPC (We shall give clear, precise instructions of the mandatory data you must provide on each form), (ii) any data that are subsequently generated or exchanged with Users in order for HACKERS AT UPC to fulfil your initial request and (iii) any personal data that you provide through social media in order to handle your requests. These data shall depend on the privacy settings of each participant, the use made by each participant of social media, in addition to the privacy policies of the social media in question.
 
-Here are the details of which personal data is collected when you subscribe to be the first to know when applications open:
+Here are the details of which personal data is collected when you subscribe to HackUPC's newsletter in order to be the first to know when applications open:
 
 - Contact data: E-mail.
 
 Here are the details of which personal data is collected when you register as a Participant:
 
-- Identifying data: Name, surname/s, city, country, adress, zip code, images or videos of yourself and a link to a personal website, discord username and id.
+- Identifying data: Name, surname/s, city, country, adress, zip code, images or videos of yourself and a link to a personal website.
 - Contact data: E-mail and phone number.
 - Data on personal characteristics: Sex, if you are a minor and t-shirt size.
 - Academic and professional data: CV, year of graduation, university, current studies and a link to professional profiles on-line (github, linkedin, devpost).
 - Economic and financial data: E-mail related to your PayPal account.
-- Other information: Account password and last connection.
+- Health data: Food allergies and intolerances.
+- Other information: Account password, last connection and dietary preferences.
+
+Here are the details of which personal data is collected when you register as a Volunteer:
+
+- Identifying data: Name, surname/s and images or videos of yourself.
+- Contact data: E-mail and phone number.
+- Data on personal characteristics: Sex, if you are a minor, t-shirt size.
+- Academic and professional data: University, current studies and previous experience.
+- Health data: Food allergies and intolerances.
+- Other information: Account password and dietary preferences.
 
 Here are the details of which personal data is collected when you register as an Organizer:
 
@@ -38,20 +48,24 @@ Here are the details of which personal data is collected when you register as an
 - Data on personal characteristics: T-shirt size.
 - Economic and financial data: Bank account.
 - Health data: Food allergies and intolerances.
-- Other information: Account password, dietary preferences.
+- Other information: Account password, last connection and dietary preferences.
 - Academic Data and professional data: Current studies, year of studies, link to professional profiles online (GitHub, LinkedIn).
 
 Here are the details of which personal data is collected when you register as a Judge or a Mentor:
 
-- Identifying data: Name, surname/s, adress, zip code, images or videos of yourself and links to social media and personal websites, discord user and id.
+- Identifying data: Name, surname/s, adress, zip code, images or videos of yourself and links to social media and personal websites.
 - Contact data: E-mail and phone number.
 - Data on personal characteristics: Sex and t-shirt size.
+- Health data: Food allergies and intolerances.
+- Other information: Account password, last connection and dietary preferences.
 
 Here are the details of which personal data is collected when you register as a Sponsor, discord user and id:
 
 - Identifying data: Name, surname/s, adress, zip code,  and images or videos of the contact person or the employee of the Sponsor.
 - Business contact data: Corporate e-mail of the contact person or the employee of the Sponsor. We also collect what company you are working for currently as well as your Job title.
 - Data on personal characteristics: Sex and t-shirt size.
+- Health data: Food allergies and intolerances.
+- Other information: Dietary preferences.
 
 Here are the details of which personal data is collected during a HackUPC CHEATING RESPONSE PROCEDURE:
 
@@ -266,4 +280,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: September 18, 2018.
+Last Reviewed: October 31, 2022.
