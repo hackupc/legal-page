@@ -15,7 +15,7 @@ You may contact HACKERS AT UPC in the postal address previously indicated or in 
 
 ## 2. WHAT PERSONAL DATA WE PROCESS AND HOW WE HAVE OBTAINED IT
 
-HACKERS AT UPC shall process the following personal data: (i) Any initial data that you voluntarily provide related to a request to register as a participant, information requests made to our company, requests to take part in promotions or requests to receive any of the services offered by HACKERS AUPC (We shall give clear, precise instructions of the mandatory data you must provide on each form), (ii) any data that are subsequently generated or exchanged with Users in order for HACKERS AT UPC to fulfil your initial request and (iii) any personal data that you provide through social media in order to handle your requests. These data shall depend on the privacy settings of each participant, the use made by each participant of social media, in addition to the privacy policies of the social media in question.
+HACKERS AT UPC shall process the following personal data: (i) Any initial data that you voluntarily provide related to a request to register as a participant, information requests made to our company, requests to take part in promotions or requests to receive any of the services offered by HACKERS AT UPC (We shall give clear, precise instructions of the mandatory data you must provide on each form), (ii) any data that are subsequently generated or exchanged with Users in order for HACKERS AT UPC to fulfil your initial request and (iii) any personal data that you provide through social media in order to handle your requests. These data shall depend on the privacy settings of each participant, the use made by each participant of social media, in addition to the privacy policies of the social media in question.
 
 Here are the details of which personal data is collected when you subscribe to HackUPC's newsletter in order to be the first to know when applications open:
 
@@ -23,7 +23,7 @@ Here are the details of which personal data is collected when you subscribe to H
 
 Here are the details of which personal data is collected when you register as a Participant:
 
-- Identifying data: Name, surname/s, city, country, adress, zip code, images or videos of yourself and a link to a personal website.
+- Identifying data: Name, surname/s, city, country, images or videos of yourself and a link to a personal website.
 - Contact data: E-mail and phone number.
 - Data on personal characteristics: Sex, if you are a minor and t-shirt size.
 - Academic and professional data: CV, year of graduation, university, current studies and a link to professional profiles on-line (github, linkedin, devpost).
@@ -53,17 +53,25 @@ Here are the details of which personal data is collected when you register as an
 
 Here are the details of which personal data is collected when you register as a Judge or a Mentor:
 
-- Identifying data: Name, surname/s, adress, zip code, images or videos of yourself and links to social media and personal websites.
+- Identifying data: Name, surname/s, images or videos of yourself and links to social media and personal websites.
 - Contact data: E-mail and phone number.
 - Data on personal characteristics: Sex and t-shirt size.
 - Health data: Food allergies and intolerances.
 - Other information: Account password, last connection and dietary preferences.
 
-Here are the details of which personal data is collected when you register as a Sponsor, discord user and id:
+Here are the details of which personal data is collected when you register as a Sponsor:
 
-- Identifying data: Name, surname/s, adress, zip code,  and images or videos of the contact person or the employee of the Sponsor.
-- Business contact data: Corporate e-mail of the contact person or the employee of the Sponsor. We also collect what company you are working for currently as well as your Job title.
+- Identifying data: Name, surname/s, and images or videos of the contact person or the employee of the Sponsor.
+- Business contact data: Corporate e-mail of the contact person or the employee of the Sponsor. We also collect what company you are working for currently as well as your Job position.
 - Data on personal characteristics: Sex and t-shirt size.
+- Health data: Food allergies and intolerances.
+- Other information: Dietary preferences.
+
+Here are the details of which personal data is collected when you register as "other attendees/users":
+
+- Identifying data: Name, surname/s and images or videos of yourself.
+- Contact data: e-mail.
+- Data on personal characteristics: Sex and t-shirt size
 - Health data: Food allergies and intolerances.
 - Other information: Dietary preferences.
 
@@ -93,6 +101,10 @@ When personal data is collected during a HackUPC CHEATING RESPONSE PROCEDURE:
 Regarding the images and videos of yourself:
 
 - HACKERS AT UPC shall process your personal data to display, broadcast and/or publish it by HACKERS AT UPC for advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.).
+
+Regarding food allergies and intolerances:
+
+- HACKERS AT UPC shall process your personal data only in order to manage the catering service.
 
 
 ## 4. WHY WE MAY PROCESS YOUR PERSONAL DATA
@@ -280,4 +292,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: October 31, 2022.
+Last Reviewed: February 07, 2023.

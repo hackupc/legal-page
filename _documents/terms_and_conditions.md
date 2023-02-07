@@ -13,13 +13,11 @@ For the purposes of this Agreement, the parties agree that, when used capitalize
 
 **The "Organizer"** refers to HACKERS AT UPC, with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) and contact e-mail address [contact@hackupc.com](mailto:contact@hackupc.com).
 
-**The "On site Participant"** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer by competing in the Hackathon.
-
-**The "Online Participant"** refers to the participant that attends the hackathon in the online modality exclusively.
+**The "Participant"** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer by competing in the Hackathon.
 
 **The "Attendee"** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer in any other role that is not the role of Participant. It includes the following: Sponsor, Judge, Mentor, Organizer, Volunteer and other attendees.
 
-**The event "HackUPC"** refers to the Event organized by the **Organizer**, which is a Hackathon. Hackathons are awesome events full of creativity, technology, and passionate tech-related students collaborating and creating. This year, 2022, HackUPC will be held online and in-person in a hybrid format using a combination of our own and third-party services such as online platforms for collaboration, communications, and participants registration.
+**The event "HackUPC"** refers to the Event organized by the **Organizer**, which is a Hackathon. Hackathons are awesome events full of creativity, technology, and passionate tech-related students collaborating and creating. In 2023, HackUPC will be held in a fully in-person format.
 
 **The "Swag"** refers to any gift provided by **The Organizer** or any HackUPC sponsor or partner in any physical or online form with no cost. 
 
@@ -29,22 +27,12 @@ For the purposes of this Agreement, the parties agree that, when used capitalize
 
 By virtue of this Agreement, the Participant or Attendee agrees to participate in the event HackUPC organized by HACKERS AT UPC, which is the first student Hackathon in Spain.
 
-This T&C apply to both the Participants and the Attendees, although some of its clauses may only apply to the Participant given their role in the Hackaton.
+This T&C apply to both the Participants and the Attendees, although some of its clauses may only apply to the Participant given their role in the Hackathon.
 
 HACKERS AT UPC is an association that promotes technology, creativity, and innovation and organizes events, primarily Hackathons, which take place once a year.
 
-## 2.Hybrid hackathon
 
-HackUPC will be held in an hybrid format. This means that there will be two modalities of participation: online and on site. 
-
-- On site Participants and Online participants may receive different swag.
-- Online Participants by accepting this T&C renounce to receive any kind of compensation for not receiving the same swag as On site Participants.
-- On site Participants may receive food and a a place to sleep(to be determined by the organization) during the hackathon from the organization.
-- Online Participants by accepting this T&C renounce to receive any kind of compensation for not receiving food and a place to sleep by the organization.
-- Only Online Participants living in Spain are eligible to participate and win in any kind of online giveaway.
-- Prizes of activities organized by the organization may differ depending on the type of activity(Online, On site, both) and the winner (On site Participant or Online Participant).
-
-## 3. HackUPC COMPETITION RULES
+## 2. HackUPC COMPETITION RULES
 
 These are the HackUPC competition rules. They are a customized version of the standard competition rules used at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit it to the e-mail address provided.
 
@@ -55,11 +43,10 @@ Remember that Hackathons are like marathons. Some people go to compete, but most
 ### The rules of the competition
 
 1. There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for each member of the team, independently of the team size.
-1. Teams can be made of a combination of online and on site participants. This won't change any form of judging criteria but it may change the way the team project is presented to the judges. 
-1. Having and hybrid team composed of online and on site participants may change the way the team presents the project in the closing ceremony. 
 1. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in their free time, accepting the extra difficulty of hacking and volunteering at the same time, but their role won't give them any judging advantage in front of the rest of participants.
 1. All team members should be accepted into the hackathon by the organization and registered into the online platforms used before and during the event.
 1. All team members should be reachable by any member of the organization team during the event.
+1. All team members should be present at the event. Leaving the venue for some time to hack elsewhere or sleep is allowed.
 1. Teams can of course gain advice and support from organizers, volunteers, sponsors, mentors and other related people to the hackathon.
 1. All work on a project should be done at the Hackathon.
 1. Teams can use an idea they had before the event.
@@ -68,6 +55,7 @@ Remember that Hackathons are like marathons. Some people go to compete, but most
 1. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 1. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the Hackathon in determining the winners.
 1. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
+1. Participants who asked for a travel reimbursement need to post a project before the deadline in order to get the reimbursement.
 1. Projects that violate the Code of Conduct are not allowed (clause 3).
 1. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the Code of Conduct, or other unsporting behaviour.
 
@@ -102,31 +90,16 @@ It's important to note that these judging criteria **do not include**:
 
 So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon.
 
-### Prizes
 
-The prizes shall be transferred using one of the following methods: 
+### Travel reimbursement
 
-- via wire transfer to a bank account specified by the winner,
-- via amazon or other store voucher purchased in Spain using Euros with a value equivalent to the prize won
-- physically being sent to the participant direction provided when applying to the event
-- or phisically during the Event. 
+If you have been elected to receive a travel reimbursement, we will contact you after the Hackathon to send it to you. You will receive a maximum that hase been specified previously via email, based on current travelling prices and distances.
 
-after the announcement of the winners by the Organizer.
+Requirements to receive travel reimbursement are:
 
-The Organizer keeps the right to decide which one of the methods mentioned above is used to transfer the prizes to each winner, without the need or obligation to make public the followed criteria. The no acceptance of the method chosen by the Organizer will be cause for withdrawal of the prize.
-
-The Organizer shall not take any responsibility for the failure of the participant to avail the prize due to inaccurate information provided by the participant. The Organizer reserves the right to replace any winner if we discover that the winner is or was in breach of these general terms and conditions.
-
-- Prizes are non-exchangeable.
-- Quoted prizes might be taxable in your jurisdiction and each winner will be solely responsible for complying with any and all applicable federal, state, provincial, local, or other statutes, regulations, and other laws and for bearing any personal, income, VAT, GST, withholding taxes, customs duties, or other taxes, fees, insurance, surcharges or other costs relating to any reward.
-- If the Organizer is obliged to withhold taxes under the applicable laws, the Organizer will do so without any notice.
-- The Organizer will cooperate and issue any documents that might be required for tax purposes, but it is the Participant’s obligation to request and collect such documents.
-
-All prize winners will be obliged to provide all their tax details to the Organizer, so that the latter can comply with all the formal obligations arising from this promotion. The Organizer will make available to the winners, within the period legally established for this purpose, the certificates of withholdings made.
-
-In order to carry out the delivery of the prize, the winners must provide all information required by the Organizer or third parties on its behalf, such as identity documents, passports, etc.; any delay or failure to provide the required documentation and/or information will be cause for withdrawal of the prize.
-
-Each winner will be responsible for complying with the tax and accounting obligations involved in obtaining the prize for personal taxation purposes..
+- Received an email with travel reimbursement amount.
+- Travel reimbursement receipts submitted before the end of HackUPC or before the date specified by the HackUPC team.
+- Project submitted to Devpost before the due date.
 
 ### Cheating
 
@@ -136,32 +109,12 @@ Any cheating allegations will be resolved according to the HackUPC Cheating Resp
 
 The competition is just a part of the Hackathon. To make the most out of the event, try something new, teach other people, and make new friends! Happy Hacking from the HackUPC team!
 
-## 4. SWAG
 
-- The organization may send swag to sponsors and attendees. Expenses incurred by team members as a result of sending merchandising, as well as the acceptance of the prize, will be borne by the winner of the prize.
-- Still, The organization keeps the right to decide which attendees and sponsors will recive swag. Without the obligation or need to make public the followed criteria.
-
-## 5. COVID
-
-Due to the exceptional situation that we are living in at this moment, we need to make sure we are all on the same page.
-
-- Subject to government regulations, restrictions, and recommendations by the time the hackathon takes place The Organization will provide a place to sleep for on-site participants. The Organization keeps the right to cancel this at any time without the need of previous warning, also the participants by accepting this T&C renounce receiving any kind of compensation in case The Organization is not able to provide a place to sleep.
-
-- All on-site participants will need to provide a COVID certificate to assist presciently to the event. International on-site participants will need to provide a valid certificate easy to validate by QR or similar. In case this is not possible on-site participants will need to show a valid PCR done at least 24h before the event.
-
-- The organization can change the modality of a participant from on-site to online without the need of providing the followed criteria. The participant by accepting this T&C renounce to receive any kind of compensation in case The organization does this change.
-
-- The participants by accepting this T&C agree to follow any indication from The Organization staff. The non-compliment of these indications may end deriving to force major measures by The Organization (change of modality) without the right to perceive a compensation of any kind.
-
-- On-site participants must wear face masks all the time, except when eating or sleeping if a distance of 1.5m can be established between participants.
-
-- The participants must comply with the COVID regulations applicable at the time the Event is held.
-
-## 6. CODE OF CONDUCT
+## 3. CODE OF CONDUCT
 
 You can find it [here](https://legal.hackersatupc.org/hackupc/code_of_conduct)
 
-## 7. HackUPC CHEATING RESPONSE PROCEDURE
+## 4. HackUPC CHEATING RESPONSE PROCEDURE
 
 ### Procedure
 
@@ -222,7 +175,7 @@ Depending on the cheating allegation, HACKERS AT UPC may decide to make one or m
 
 If some attendees were angered by the cheating, it is best to apologize to them that the cheating occurred to begin with.
 
-## 8. TERMINATION AND CANCELLATION
+## 5. TERMINATION AND CANCELLATION
 
 HACKERS AT UPC may at any time, in its sole discretion, immediately terminate this Agreement with or without cause. HACKERS AT UPC will make commercially reasonable efforts to notify the Participant or Attendee via e-mail of any such termination or cancellation up to the date of the event.
 
@@ -230,7 +183,7 @@ Participants or Attendees may cancel and/or terminate this Agreement with or wit
 
 If either party does not fulfil a material obligation defined in this Agreement, the other party has the right to terminate this Agreement immediately with written notice to the party in breach, provided that such material breach remains uncured, without prejudice of the right to claim the damages caused to the non-breaching party.
 
-## 9. CONFIDENTIALITY, PERSONAL DATA PROTECTION AND RIGHTS OF IMAGE
+## 6. CONFIDENTIALITY, PERSONAL DATA PROTECTION AND RIGHTS OF IMAGE
 
 In accordance with the current data protection legislation, particularly the Regulation (EU) 2016/679 of The European Parliament and of The Council, of 27 April, on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, all personal data collected during the use of the Website will be processed in accordance with the provisions of the [Privacy and Cookies Policy](hackupc.com/privacy_and_cookies/) which all Users must expressly accept.
 
@@ -242,7 +195,7 @@ As it is explained in the Privacy Policy, one of the personal data that you auth
 - This authorization is made completely free of charge, and you undertake not to request or claim any compensation, payment or reimbursement in exchange for this authorization.
 - When the photographs and/or videos are taken by HACKERS AT UPC, the applicable Privacy Policy will be the HACKERS AT UPC's Privacy and Cookies Policy. When the photographs and/or videos are taken by a Sponsor, the applicable Privacy Policy will be the Sponsor's Privacy Policy.
 
-## 10. LIMITATION OF LIABILITY AND INDEMNIFICATION
+## 7. LIMITATION OF LIABILITY AND INDEMNIFICATION
 
 ### Indemnification
 
@@ -252,13 +205,13 @@ You agree to indemnify, defend and hold HACKERS AT UPC, its members (hosts and v
 
 UNDER NO CIRCUMSTANCES WILL HACKERS AT UPC BE LIABLE TO THE PARTICIPANT OR ATTENDEE WITH RESPECT TO ANY SUBJECT MATTER OF THESE TERMS AND CONDITIONS UNDER CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY, WHETHER OR NOT HACKERS AT UPC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING FROM ANY PROVISION OF THESE TERMS. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE.
 
-## 11. MODIFICATIONS
+## 8. MODIFICATIONS
 
 HACKERS AT UPC reserves the right to amend the provisions of the present Agreement that are minor in scope or nature, and to do so without citing any reasons, provided such modifications do not lead to the Agreement as a whole being restructured. HACKERS AT UPC will communicate, by e-mail or other electronic means, the modified conditions at least 15 days prior to the Effective Date. Participants or Attendees who do not object in writing to the modification within 7 days after the receipt of the communication will be deemed to have accepted the respective modification.
 
-If a Participant or Attendee objects to the new (modified) Terms, Then the Agreement between the two parts will be terminated (clause 6). The organizer , once the agreement is terminated, won't consider the participation of the participant unless the new terms and conditions are accepted again in a new application process to the Event following the standard acceptance process. 
+If a Participant or Attendee objects to the new (modified) Terms, HACKERS AT UPC´s request to modify them will be deemed to have been rejected. The Agreement will then be continued without the proposed modification only in relation to such particular event where the change was made while the Participant or Attendee was already registered, however, the new T&C with all modifications will fully apply for any new event. The right of the parties to terminate their participation in the event HackUPC remains unaffected hereby.
 
-## 12. APPLICABLE LAW AND JURISDICTION
+## 9. APPLICABLE LAW AND JURISDICTION
 
 This Agreement shall be governed by Spanish law.
 
@@ -266,7 +219,7 @@ In the event that the User's domicile is outside Spain, HACKERS AT UPC and the P
 
 HACKERS AT UPC will pursue the breach of this Agreement by exercising all civil and criminal actions that may correspond.
 
-## 13. GENERAL PROVISIONS
+## 10. GENERAL PROVISIONS
 
 ### Force Majeure
 
@@ -316,4 +269,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: October 31, 2022.
+Last Reviewed: February 06, 2023.
