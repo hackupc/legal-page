@@ -49,7 +49,7 @@ Here are the details of which personal data is collected when you register as an
 - Economic and financial data: Bank account.
 - Health data: Food allergies and intolerances.
 - Other information: Account password, last connection and dietary preferences.
-- Academic Data and professional data: Current studies, year of studies, link to professional profiles online (GitHub, LinkedIn).
+- Academic Data and professional data: CV, Current studies, year of studies, link to professional profiles online (GitHub, LinkedIn).
 
 Here are the details of which personal data is collected when you register as a Judge or a Mentor:
 
