@@ -58,7 +58,7 @@ Here are the details of which personal data is collected when you register as a 
 - Data on personal characteristics: Sex and t-shirt size.
 - Health data: Food allergies and intolerances.
 - Other information: Account password, last connection and dietary preferences.
-- Academic Data and professional data: Current or completed studies, current Job position, link to professional profiles online (Github, Linkedin)
+- Academic Data and professional data: Current or completed studies, university, year of graduation, current job position, link to professional profiles online (Github, Linkedin)
 
 Here are the details of which personal data is collected when you register as a Sponsor:
 
@@ -293,4 +293,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: February 07, 2023.
+Last Reviewed: February 12, 2023.
