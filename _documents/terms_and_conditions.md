@@ -19,7 +19,7 @@ For the purposes of this Agreement, the parties agree that, when used capitalize
 
 **The event "HackUPC"** refers to the Event organized by the **Organizer**, which is a Hackathon. Hackathons are awesome events full of creativity, technology, and passionate tech-related students collaborating and creating. In 2023, HackUPC will be held in a fully in-person format.
 
-**The "Swag"** refers to any gift provided by **The Organizer** or any HackUPC sponsor or partner in any physical or online form with no cost. 
+**The "Swag"** refers to any gift provided by **The Organizer** or any HackUPC sponsor or partner in any physical or online form with no cost.
 
 ## CLAUSES
 
@@ -30,7 +30,6 @@ By virtue of this Agreement, the Participant or Attendee agrees to participate i
 This T&C apply to both the Participants and the Attendees, although some of its clauses may only apply to the Participant given their role in the Hackathon.
 
 HACKERS AT UPC is an association that promotes technology, creativity, and innovation and organizes events, primarily Hackathons, which take place once a year.
-
 
 ## 2. HackUPC COMPETITION RULES
 
@@ -59,7 +58,7 @@ Remember that Hackathons are like marathons. Some people go to compete, but most
 1. Projects that violate the Code of Conduct are not allowed (clause 3).
 1. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the Code of Conduct, or other unsporting behaviour.
 
-### Demos 
+### Demos
 
 After hacking finishes, teams will show their projects to each other and to the judges.
 
@@ -90,7 +89,6 @@ It's important to note that these judging criteria **do not include**:
 
 So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon.
 
-
 ### Travel reimbursement
 
 If you have been elected to receive a travel reimbursement, we will contact you after the Hackathon to send it to you. You will receive a maximum that hase been specified previously via email, based on current travelling prices and distances.
@@ -108,7 +106,6 @@ Any cheating allegations will be resolved according to the HackUPC Cheating Resp
 ### Remember!
 
 The competition is just a part of the Hackathon. To make the most out of the event, try something new, teach other people, and make new friends! Happy Hacking from the HackUPC team!
-
 
 ## 3. CODE OF CONDUCT
 
