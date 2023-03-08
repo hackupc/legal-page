@@ -16,7 +16,7 @@ For the purposes of this Agreement, the parties agree that, when used capitalize
 
 **The “Organizer”** refers to HACKERS AT UPC, with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) and contact e-mail address info@hackersatupc.org
 **The “Participant”** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer by competing in the Hackathon.
-**The “Attendee”** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer in any other role that is not the role of Participant. It includes the following: Sponsor, Judge, Mentor, Organizer, Volunteer and other attendees.
+**The “Attendee”** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer in any other role that is not the role of Participant. It includes the following: Sponsor, Speaker, Judge, Mentor, Organizer, Volunteer and other attendees.
 **The event “HackNights”** refers to the Event organized by the Organizer, which is a Hackathon. Hackathons are awesome events full of creativity, technology and passionate tech-related students collaborating and creating.
 
 ***
@@ -157,3 +157,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 #### No Third Party Beneficiaries
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.”
 
+Last Reviewed: March 08, 2023.

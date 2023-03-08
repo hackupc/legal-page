@@ -12,7 +12,7 @@ In compliance with current regulations on the protection of personal data you ar
 
 ## 1. DATA CONTROLLER
 
-ASSOCIACIÓ HACKERS AT UPC (hereinafter, “HACKERS AT UPC”) with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1-3, Campus Nord UPC, Edifici Omega, D.S103, 08034, Barcelona (Spain) is the Data Controller of the processing of your personal data.
+ASSOCIACIÓ HACKERS AT UPC (hereinafter, “HACKERS AT UPC”) with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1-3, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) is the Data Controller of the processing of your personal data.
 
 You may contact HACKERS AT UPC in the postal address previously indicated or in the following email address for any query, request or clarification regarding the processing of your personal data: contact@hackupc.com.
 
@@ -44,7 +44,7 @@ Here are the details of which personal data is collected when you register as an
 - Other information: Account password, last connection and dietary preferences.
 - Academic Data and professional data: Current studies.
 
-Here are the details of which personal data is collected when you register as "other attendees/users”:
+Here are the details of which personal data is collected when you register as a Speaker or "other attendees/users”:
 
 - Identifying data: Name, surname/s and images or videos of yourself. 
 - Contact data: e-mail. 
@@ -261,3 +261,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
+Last Reviewed: March 08, 2023.
