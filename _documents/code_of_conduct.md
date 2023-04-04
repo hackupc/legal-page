@@ -5,7 +5,7 @@ category: hackupc
 ---
 # HackUPC Code of Conduct
 
-This is the Code of Conduct that we expect all HackUPC participants to abide. This is a customized version of the Code of Conduct used at MLH Member Hackathons. If you have a suggestion for this code of conduct or a question about them, please [submit an issue](https://github.com/hackupc/rules/issues).
+This is the Code of Conduct that we expect all HackUPC participants to abide. This is a customized version of the Code of Conduct used at MLH Member Hackathons, which you can find [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). If you have a suggestion for this code of conduct or a question about them, please [submit an issue](https://github.com/hackupc/rules/issues).
 
 ## TL;DR
 
@@ -37,10 +37,11 @@ By sending us an email to contact@hackupc.com, your report will be received by o
 
 If you need to contact a team member directly, please contact one of our organizers below.
 
-- Carlota Catot, **[Org] Carlota** in Discord, [carlota@hackupc.com](mailto:carlota@hackupc.com).
-- Eric Serrano, **[Org] Eric** in Discord, [eric@hackupc.com](mailto:eric@hackupc.com).
-- David Dionis, **[Org] David** in Discord, [david.dionis@hackupc.com](mailto:david.dionis@hackupc.com).
+- Carlota Catot, **@Carlota** in Discord, [carlota@hackupc.com](mailto:carlota@hackupc.com).
+- Eric Serrano, **@Eric** in Slack, [eric@hackupc.com](mailto:eric@hackupc.com).
+- Joel Miarons, **@Joel** in Slack, [joel@hackupc.com](mailto:david.dionis@hackupc.com).
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
-Last Reviewed: December 15, 2021.
+
+Last Reviewed: April 4, 2023.
