@@ -103,6 +103,8 @@ Regarding the images and videos of yourself:
 
 - HACKERS AT UPC shall process your personal data to display, broadcast and/or publish it by HACKERS AT UPC for advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.).
 
+- Sponsors shall process your personal data to display, broadcast and/or publish it by Sponsors for advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.).
+
 Regarding food allergies and intolerances:
 
 - HACKERS AT UPC shall process your personal data only in order to manage the catering service.
@@ -279,10 +281,11 @@ We also use local storage to save if users have clicked on "OK" on the cookie no
 
 You can delete cookies at any time using the special settings of your web browser. Given the large number of browsers and versions available on the market, we cannot provide technical assistance on the process of blocking or removing cookies from each of them. For such purposes, you should consult the manuals and support services provided by the manufacturer of the browser that you are using. In any case, for information only, we provide the following links that detail how to allow, block or delete cookies in the main browsers in the market at the time of writing this Policy:
 
+- Microsoft Edge: [https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09](https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09)
 - Safari: [http://support.apple.com/kb/PH17191](http://support.apple.com/kb/PH17191).
 - Firefox: [https://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-?esab=a&s=cookies&r=1&as=s](https://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-?esab=a&s=cookies&r=1&as=s).
 - Google Chrome: [https://support.google.com/accounts/answer/61416](https://support.google.com/accounts/answer/61416).
-- Internet Explorer: [http://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9](http://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9)
+- Internet Explorer: [https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d)
 - Opera: [http://help.opera.com/Windows/11.50/es-ES/cookies.html](http://help.opera.com/Windows/11.50/es-ES/cookies.html).
 
 Everything related to Google's cookies, both analytical and advertising, as well as their administration and configuration can be consulted at:
@@ -293,4 +296,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: February 12, 2023.
+Last Reviewed: April 4, 2023.

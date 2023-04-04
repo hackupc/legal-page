@@ -186,8 +186,9 @@ In accordance with the current data protection legislation, particularly the Reg
 
 As it is explained in the Privacy Policy, one of the personal data that you authorize HACKERS AT UPC to process is your image:
 
-- By accepting the Privacy and Cookies Policy and these T&C you grant HACKERS AT UPC, its organizers, volunteers, and Sponsors permission to capture photographs and/or record videos of yourself in the event you request to participate.
-- You give your consent for the images and/or videos taken during the course of this event to be displayed, broadcasted and/or published by HACKERS AT UPC and/or the Sponsors of the event you request to participate for advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.), worldwide, for an indefinite period and without limitation.
+- By accepting the Privacy and Cookies Policy and these T&C you grant HACKERS AT UPC, its organizers, volunteers, and Sponsors permission to capture photographs and/or record videos of yourself in the event you request to participate. You also grant HACKERS AT UPC permission to provide those pictures and/or videos to MAJOR LEAGUE HACKING (MLH).
+
+- You give your consent for the images and/or videos taken during the course of this event to be displayed, broadcasted and/or published by HACKERS AT UPC and/or the Sponsors of the event you request to participate and/or MAJOR LEAGUE HACKING (MLH) for advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.), worldwide, for an indefinite period and without limitation.
 - This authorization is perpetual and has no other limitations than those contained in the Spanish Organic Law 1/1982, of May 5, on Civil Protection of the right to honor, personal and family privacy and self-image.
 - This authorization is made completely free of charge, and you undertake not to request or claim any compensation, payment or reimbursement in exchange for this authorization.
 - When the photographs and/or videos are taken by HACKERS AT UPC, the applicable Privacy Policy will be the HACKERS AT UPC's Privacy and Cookies Policy. When the photographs and/or videos are taken by a Sponsor, the applicable Privacy Policy will be the Sponsor's Privacy Policy.
@@ -266,4 +267,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: February 06, 2023.
+Last Reviewed: April 04, 2023.
