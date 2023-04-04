@@ -23,10 +23,10 @@ Here are the details of which personal data is collected when you subscribe to H
 
 Here are the details of which personal data is collected when you register as a Participant:
 
-- Identifying data: Name, surname/s, city, country, images or videos of yourself and a link to a personal website.
+- Identifying data: Name, surname/s, city, country of residence, images or videos of yourself and a link to a personal website.
 - Contact data: E-mail and phone number.
 - Data on personal characteristics: Sex, if you are a minor and t-shirt size.
-- Academic and professional data: CV, year of graduation, university, current studies and a link to professional profiles on-line (github, linkedin, devpost).
+- Academic and professional data: CV, year of graduation, university/school, current studies and a link to professional profiles on-line (github, linkedin, devpost).
 - Economic and financial data: E-mail related to your PayPal account.
 - Health data: Food allergies and intolerances.
 - Other information: Account password, last connection and dietary preferences.
@@ -36,7 +36,7 @@ Here are the details of which personal data is collected when you register as a 
 - Identifying data: Name, surname/s and images or videos of yourself.
 - Contact data: E-mail and phone number.
 - Data on personal characteristics: Sex, if you are a minor, t-shirt size.
-- Academic and professional data: University, current studies and previous experience.
+- Academic and professional data: University/School, current studies and previous experience.
 - Health data: Food allergies and intolerances.
 - Other information: Account password and dietary preferences.
 
@@ -89,6 +89,13 @@ When you subscribe to be the first to know when applications open, register as a
 
 - HACKERS AT UPC shall process your personal data to handle and process requests received from you, providing services before and during the event,  whether for information, registration, participation in promotions or the rendering of services.
 - In addition, your personal data shall be processed to send, including via electronic media, commercial communications about activities, services or products offered by HACKERS AT UPC that are of a similar nature to those previously requested by you.
+- In addition, if you register as a Participant, your personal data shall be processed and shared with MAJOR LEAGUE HACKING (MLH) for event administration, ranking and MLH administration.
+
+Here are the details of which personal data is shared with MAJOR LEAGUE HACKING (MLH) when you register as a Participant:
+
+- Identifying data: Name, surname/s, country of residence, images or videos of yourself.
+- Contact data: E-mail and phone number.
+- Academic data: university/school, year of graduation.
 
 When you register as a Sponsor:
 
