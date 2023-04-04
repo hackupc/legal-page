@@ -39,9 +39,8 @@ If you need to contact a team member directly, please contact one of our organiz
 
 - Carlota Catot, **@Carlota** in Discord, [carlota@hackupc.com](mailto:carlota@hackupc.com).
 - Eric Serrano, **@Eric** in Slack, [eric@hackupc.com](mailto:eric@hackupc.com).
-- Joel Miarons, **@Joel** in Slack, [joel@hackupc.com](mailto:david.dionis@hackupc.com).
+- Joel Miarons, **@Joel** in Slack, [joel@hackupc.com](mailto:joel@hackupc.com).
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
-
 
 Last Reviewed: April 4, 2023.
