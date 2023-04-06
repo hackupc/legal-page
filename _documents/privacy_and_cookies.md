@@ -93,7 +93,7 @@ When you subscribe to be the first to know when applications open, register as a
 
 Here are the details of which personal data is shared with MAJOR LEAGUE HACKING (MLH) when you register as a Participant:
 
-- Identifying data: Name, surname/s, country of residence, images or videos of yourself.
+- Identifying data: Name, surname/s, country of residence.
 - Contact data: E-mail and phone number.
 - Academic data: university/school, year of graduation.
 
@@ -115,7 +115,6 @@ Regarding the images and videos of yourself:
 Regarding food allergies and intolerances:
 
 - HACKERS AT UPC shall process your personal data only in order to manage the catering service.
-
 
 ## 4. WHY WE MAY PROCESS YOUR PERSONAL DATA
 
