@@ -37,7 +37,7 @@ By sending us an email to contact@hackupc.com, your report will be received by o
 
 If you need to contact a team member directly, please contact one of our organizers below.
 
-- Carlota Catot, **@Carlota** in Discord, [carlota@hackupc.com](mailto:carlota@hackupc.com).
+- Carlota Catot, **@Carlota** in Slack, [carlota@hackupc.com](mailto:carlota@hackupc.com).
 - Eric Serrano, **@Eric** in Slack, [eric@hackupc.com](mailto:eric@hackupc.com).
 - Joel Miarons, **@Joel** in Slack, [joel@hackupc.com](mailto:joel@hackupc.com).
 
