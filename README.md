@@ -1,6 +1,6 @@
 # Hackers@UPC Legal documents
 
-This page contains public legal documents related to Hackers@UPC.It contains the Privacy policy, cookies policy and this kind of documents.
+This page contains public legal documents related to Hackers@UPC contains the Privacy policy, cookies policy and this kind of documents.
 
 ## Create a new document
 
