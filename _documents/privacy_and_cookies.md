@@ -112,9 +112,11 @@ Regarding the images and videos of yourself:
 
 - Sponsors shall process your personal data to display, broadcast and/or publish it by Sponsors for advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.).
 
+- Partners shall process your personal data to display, broadcast and/or publish it by Partners for advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.).
+
 Regarding food allergies and intolerances:
 
-- HACKERS AT UPC shall process your personal data only in order to manage the catering service.
+- HACKERS AT UPC shall process your personal data only in order to manage the catering services hired for the event.
 
 ## 4. WHY WE MAY PROCESS YOUR PERSONAL DATA
 
@@ -302,4 +304,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: April 6, 2023.
+Last Reviewed: January 1st, 2024.

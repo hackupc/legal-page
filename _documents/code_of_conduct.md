@@ -37,10 +37,9 @@ By sending us an email to contact@hackupc.com, your report will be received by o
 
 If you need to contact a team member directly, please contact one of our organizers below.
 
-- Carlota Catot, **@Carlota** in Slack, [carlota@hackupc.com](mailto:carlota@hackupc.com).
-- Eric Serrano, **@Eric** in Slack, [eric@hackupc.com](mailto:eric@hackupc.com).
-- Joel Miarons, **@Joel** in Slack, [joel@hackupc.com](mailto:joel@hackupc.com).
+- Gerard Madrid, **@awakt** in Slack, [gerard.madrid@hackupc.com](mailto:gerard.madrid@hackupc.com).
+- Teresa Rovira, **@terocar** in Slack, [teresa@hackupc.com](mailto:teresa@hackupc.com).
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
-Last Reviewed: April 4, 2023.
+Last Reviewed: January 1st, 2024.
