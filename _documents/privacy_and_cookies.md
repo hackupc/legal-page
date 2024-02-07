@@ -25,19 +25,19 @@ Here are the details of which personal data is collected when you register as a 
 
 - Identifying data: Name, surname/s, city, country of residence, images or videos of yourself and a link to a personal website.
 - Contact data: E-mail and phone number.
-- Data on personal characteristics: Sex, if you are a minor and t-shirt size.
+- Data on personal characteristics: Gender identity, if you are a minor and t-shirt size.
 - Academic and professional data: CV, year of graduation, university/school, current studies and a link to professional profiles on-line (github, linkedin, devpost).
 - Economic and financial data: E-mail related to your PayPal account.
-- Health data: Food allergies and intolerances.
+- Health data: Dietary requirements such as food allergies and intolerances.
 - Other information: Account password, last connection and dietary preferences.
 
 Here are the details of which personal data is collected when you register as a Volunteer:
 
-- Identifying data: Name, surname/s and images or videos of yourself.
+- Identifying data: Name, surname/s, city, country of residence, and images or videos of yourself.
 - Contact data: E-mail and phone number.
-- Data on personal characteristics: Sex, if you are a minor, t-shirt size.
+- Data on personal characteristics: Gender identity, if you are a minor, t-shirt size.
 - Academic and professional data: University/School, current studies and previous experience.
-- Health data: Food allergies and intolerances.
+- Health data: Dietary requirements such as food allergies and intolerances.
 - Other information: Account password and dietary preferences.
 
 Here are the details of which personal data is collected when you register as an Organizer:
@@ -47,7 +47,7 @@ Here are the details of which personal data is collected when you register as an
 - Business contact data: Corporate e-mail.
 - Data on personal characteristics: T-shirt size.
 - Economic and financial data: Bank account.
-- Health data: Food allergies and intolerances.
+- Health data: Dietary requirements such as food allergies and intolerances.
 - Other information: Account password, last connection and dietary preferences.
 - Academic Data and professional data: CV, Current studies, year of studies, link to professional profiles online (GitHub, LinkedIn).
 
@@ -55,8 +55,8 @@ Here are the details of which personal data is collected when you register as a 
 
 - Identifying data: Name, surname/s, images or videos of yourself and links to social media and personal websites.
 - Contact data: E-mail and phone number.
-- Data on personal characteristics: Sex and t-shirt size.
-- Health data: Food allergies and intolerances.
+- Data on personal characteristics: Gender identity and t-shirt size.
+- Health data: Dietary requirements such as food allergies and intolerances.
 - Other information: Account password, last connection and dietary preferences.
 - Academic Data and professional data: Current or completed studies, university, year of graduation, current job position, link to professional profiles online (Github, Linkedin)
 
@@ -64,16 +64,16 @@ Here are the details of which personal data is collected when you register as a 
 
 - Identifying data: Name, surname/s, and images or videos of the contact person or the employee of the Sponsor.
 - Business contact data: Corporate e-mail of the contact person or the employee of the Sponsor. We also collect what company you are working for currently as well as your Job position.
-- Data on personal characteristics: Sex and t-shirt size.
-- Health data: Food allergies and intolerances.
+- Data on personal characteristics: Gender identity and t-shirt size.
+- Health data: Dietary requirements such as food allergies and intolerances.
 - Other information: Dietary preferences.
 
 Here are the details of which personal data is collected when you register as "other attendees/users":
 
 - Identifying data: Name, surname/s and images or videos of yourself.
 - Contact data: e-mail.
-- Data on personal characteristics: Sex and t-shirt size
-- Health data: Food allergies and intolerances.
+- Data on personal characteristics: Gender identity and t-shirt size
+- Health data: Dietary requirements such as food allergies and intolerances.
 - Other information: Dietary preferences.
 
 Here are the details of which personal data is collected during a HackUPC CHEATING RESPONSE PROCEDURE:
@@ -304,4 +304,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: January 1st, 2024.
+Last Reviewed: February 2nd, 2024.
