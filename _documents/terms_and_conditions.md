@@ -42,6 +42,7 @@ Remember that Hackathons are like marathons. Some people go to compete, but most
 ### The rules of the competition
 
 1. There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for each member of the team, independently of the team size.
+1. Every team can only submit up to one project, although they can apply to multiple sponsor challenges and win multiple prizes with said project. 
 1. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in their free time, accepting the extra difficulty of hacking and volunteering at the same time, but their role won't give them any judging advantage in front of the rest of participants.
 1. All team members should be accepted into the hackathon by the organization and registered into the online platforms used before and during the event.
 1. All team members should be reachable by any member of the organization team during the event.
@@ -266,4 +267,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: February 06, 2023.
+Last Reviewed: February 7th, 2024.
