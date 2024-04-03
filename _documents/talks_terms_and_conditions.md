@@ -54,7 +54,7 @@ As it is explained in the Privacy Policy, one of the personal data that you auth
 
 ### Indemnification
 
-You agree to indemnify, defend and hold HACKERS AT UPC, its members (hosts and volunteers) and other personalities that have a role in this event (sponsors, judges, mentors) harmless from and against any and all costs, claims, demands, liabilities, expenses, losses, damages and attorney fees arising from any claims and lawsuits or proceeding for libel, slander, copyright, and trademark violation as well as all other claims resulting from (i) the participation in the event Talks & Workshops or (ii) otherwise arising from a relationship with HACKERS AT UPC. You also agree to indemnify HACKERS AT UPC for any legal fees incurred by HACKERS AT UPC, acting reasonably, in investigating or enforcing its rights under this Agreement.
+You agree to indemnify, defend and hold HACKERS AT UPC, its members (hosts) harmless from and against any and all costs, claims, demands, liabilities, expenses, losses, damages and attorney fees arising from any claims and lawsuits or proceeding for libel, slander, copyright, and trademark violation as well as all other claims resulting from (i) the participation in the event Talks & Workshops or (ii) otherwise arising from a relationship with HACKERS AT UPC. You also agree to indemnify HACKERS AT UPC for any legal fees incurred by HACKERS AT UPC, acting reasonably, in investigating or enforcing its rights under this Agreement.
 
 ### Limitation of Liability
 
