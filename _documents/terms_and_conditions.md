@@ -11,7 +11,7 @@ For the purposes of this Agreement, the parties agree that, when used capitalize
 
 ## DEFINITIONS
 
-**The "Organizer"** refers to HACKERS AT UPC, with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) and contact e-mail address [contact@hackupc.com](mailto:contact@hackupc.com).
+**The "Organizer"** refers to HACKERS AT UPC, with NIF/VAT G66642778 and address at C/ Jordi Girona, num. 1-3, Campus Nord UPC, Edifici Omega, D.S102, 08034, Barcelona (Spain) and contact e-mail address [contact@hackupc.com](mailto:contact@hackupc.com).
 
 **The "Participant"** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer by competing in the Hackathon.
 
@@ -48,7 +48,7 @@ Remember that Hackathons are like marathons. Some people go to compete, but most
 1. All team members should be reachable by any member of the organization team during the event.
 1. All team members should be present at the event. Leaving the venue for some time to hack elsewhere or sleep is allowed.
 1. Teams can of course gain advice and support from organizers, volunteers, sponsors, mentors and other related people to the hackathon.
-1. All work on a project should be done at the Hackathon.
+1. All work on a project should be done during the Hackathon.
 1. Teams can use an idea they had before the event.
 1. Teams can work on ideas that have already been done. Hacks do not have to be "innovative". If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it's hard to find something that's fully original and teams might not know an idea has been done before anyway.
 1. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
@@ -63,9 +63,9 @@ Remember that Hackathons are like marathons. Some people go to compete, but most
 
 After hacking finishes, teams will show their projects to each other and to the judges.
 
-In order to present your project to hackUPC judges and sponsors you would need to be able to sing up and log in to third party services complining with the applicable law of your country. Agreeing with the terms and conditions of any third party service suggested, used or proposed by the organization.
+In order to present your project to HackUPC judges and sponsors you would need to be able to sign up and log in to third party services complying with the applicable law of your country. Agreeing with the terms and conditions of any third party service suggested, used or proposed by the organization.
 
-You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
+You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged, and slides or any form of digital support is not allowed. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
 You are encouraged to present what you have done even if your hack is broken or you weren't able to finish. It's okay if you didn't finish your hack, that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build that's what hacking's all about! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
@@ -92,13 +92,13 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 ### Travel reimbursement
 
-If you have been elected to receive a travel reimbursement, we will contact you after the Hackathon to send it to you. You will receive a maximum that hase been specified previously via email, based on current travelling prices and distances.
+If you have been elected to receive a travel reimbursement, we will contact you after the Hackathon to send it to you. You will receive a maximum that has been specified previously via email, based on current travelling prices and distances.
 
 Requirements to receive travel reimbursement are:
 
-- Received an email with travel reimbursement amount.
+- Received an email with travel reimbursement amount confirmed.
 - Travel reimbursement receipts submitted before the end of HackUPC or before the date specified by the HackUPC team.
-- Project submitted to Devpost before the due date.
+- Project submitted to Devpost before the due date and not deemed invalid by the HackUPC judges or organizers.
 
 ### Cheating
 
@@ -267,4 +267,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: February 7th, 2024.
+Last Reviewed: February 1st, 2025.
