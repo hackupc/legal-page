@@ -164,7 +164,7 @@ For further information regarding warranties to your privacy, you may contact HA
 
 ## 7. HOW LONG WE WILL STORE YOUR DATA
 
-Your personal data will be stored while your relationship with HACKERS AT UPC is ongoing and, once said relationship is terminated for whatever cause, for the applicable legal terms. Once the relationship is terminated, your data will be processed solely to the effects of demonstrating compliance with the legal or contractual obligations of the Company. Once said legal terms are met, your data will be eliminated or, alternatively, anonymized.
+Your personal data will be stored while your relationship with HACKERS AT UPC is ongoing and, once said relationship is terminated for whatever cause, for the applicable legal terms. Once the relationship is terminated, your data will be processed solely to the effects of demonstrating compliance with the legal or contractual obligations of HACKERS AT UPC. Once said legal terms are met, your data will be eliminated or, alternatively, anonymized.
 
 ## 8. WHAT ARE YOUR RIGHTS
 
@@ -304,4 +304,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: February 7th, 2024.
+Last Reviewed: February 1st, 2025.
