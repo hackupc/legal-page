@@ -5,7 +5,7 @@ category: hackupc
 ---
 # HackUPC Code of Conduct
 
-This is the Code of Conduct that we expect all HackUPC participants to abide. This is a customized version of the Code of Conduct used at MLH Member Hackathons, which you can find [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). If you have a suggestion for this code of conduct or a question about them, please [submit an issue](https://github.com/hackupc/legal-page/issues).
+This is the Code of Conduct that we expect all HackUPC participants to abide by. This is a customized version of the Code of Conduct used at MLH Member Hackathons, which you can find [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). If you have a suggestion for this code of conduct or a question about them, please [submit an issue](https://github.com/hackupc/legal-page/issues).
 
 ## TL;DR
 
@@ -27,7 +27,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Event organizers will be happy to help participants contact campus security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
-We expect participants to follow these rules at all hackathon venues, online interactions in relation to the event, hackathon-related social events, and on hackathon supplied transportation.
+We expect participants to follow these rules at all hackathon venues, online interactions in relation to the event, hackathon-related social events, and on hackathon supplied transportation, if any.
 
 ## Reporting Procedures
 
@@ -37,9 +37,9 @@ By sending us an email to contact@hackupc.com, your report will be received by o
 
 If you need to contact a team member directly, please contact one of our organizers below.
 
-- Gerard Madrid, **@awakt** in Slack, [gerard.madrid@hackupc.com](mailto:gerard.madrid@hackupc.com).
-- Teresa Rovira, **@terocar** in Slack, [teresa@hackupc.com](mailto:teresa@hackupc.com).
+- Enrique Andújar, **@Enrique** in Slack, [enrique@hackupc.com](mailto:gerard.madrid@hackupc.com).
+- Isaac Bassas, **@Isaac** in Slack, [isaac@hackupc.com](mailto:teresa@hackupc.com).
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
-Last Reviewed: February 11th, 2024.
+Last Reviewed: February 1st, 2025.
