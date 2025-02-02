@@ -3,7 +3,7 @@ layout: document
 title: "Email privacy"
 category: hackers
 ---
-“In compliance with the current data protection regulations we inform you of the following:
+In compliance with the current data protection regulations we inform you of the following:
 
 ## DATA CONTROLLER
 
@@ -69,7 +69,7 @@ electronic or postal addresses previously indicated.
 Your personal data will be stored while your relationship with HACKERS AT UPC is ongoing and, once
 said relationship is terminated for whatever cause, for the applicable legal terms. Once the relationship is
 terminated, your data will be processed solely to the effects of demonstrating compliance with the legal or
-contractual obligations of the Company. Once said legal terms are met, your data will be eliminated or,
+contractual obligations of HACKERS AT UPC. Once said legal terms are met, your data will be eliminated or,
 alternatively, anonymized.
 
 ## WHAT ARE YOUR RIGHTS
@@ -80,4 +80,4 @@ Furthermore, if you consider the processing of your personal data violates the r
 privacy, you may file a complaint:
 - To HACKERS AT UPC, through the electronic and postal addresses indicated.
 - To the Spanish Data Protection Agency (Agencia Española de Protección de Datos) through its
-electronic or postal addresses.”
+electronic or postal addresses.
