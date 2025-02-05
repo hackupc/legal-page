@@ -92,7 +92,7 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 ### Travel reimbursement
 
-After being accepted to HackUPC, once confirming your spot you will be able to opt fot travel reimbursement. The maximum of the amount you can receive will be the minimum between the 50% of your travel expenses and the amount specified for your destination, the amount for each destination is decided by the organizing team with their criteria, taking in account the ticket price, the number of hackers that are requiring travel reimbursement and the budget. 
+After being accepted to HackUPC, once confirming your spot you will be able to opt for travel reimbursement. The maximum of the amount you can receive will be the minimum between the 50% of your travel expenses and the amount specified for your destination, the amount for each destination is decided by the organizing team with their criteria, taking in account the ticket price, the number of hackers that are requiring travel reimbursement and the budget. 
 
 To be able to receive this money, it's mandatory to follow the instructions:
 
