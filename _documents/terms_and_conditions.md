@@ -92,13 +92,15 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 ### Travel reimbursement
 
-If you have been elected to receive a travel reimbursement, we will contact you after the Hackathon to send it to you. You will receive a maximum that has been specified previously via email, based on current travelling prices and distances.
+After being accepted to HackUPC, once confirming your spot you will be able to opt for travel reimbursement. The maximum of the amount you can receive will be the minimum between the 50% of your travel expenses and the amount specified for your destination, the amount for each destination is decided by the organizing team with their criteria, taking in account the ticket price, the number of hackers that are requiring travel reimbursement and the budget. 
 
-Requirements to receive travel reimbursement are:
+To be able to receive this money, it's mandatory to follow the instructions:
 
-- Received an email with travel reimbursement amount confirmed.
-- Travel reimbursement receipts submitted before the end of HackUPC or before the date specified by the HackUPC team.
-- Project submitted to Devpost before the due date and not deemed invalid by the HackUPC judges or organizers.
+- Provide the receipts of your travel expenses (plane, train or bus) to the organization team before the start of the event.
+- The receipts must be in the name of the participant that is requesting the reimbursement, with the breakdown of the price, the date of the purchase and the days of the travel.
+- The travel needs to be in the interval of 1 week before the event or 1 week after the event.
+- The participant must demo a valid the project to the HackUPC judges.
+- The money will be transferred to the participant using PayPal in the following 60 days after the event.
 
 ### Cheating
 
@@ -267,4 +269,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: February 1st, 2025.
+Last Reviewed: February 5th, 2025.
