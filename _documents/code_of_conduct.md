@@ -37,9 +37,9 @@ By sending us an email to contact@hackupc.com, your report will be received by o
 
 If you need to contact a team member directly, please contact one of our organizers below.
 
-- Enrique Andújar, **@Enrique** in Slack, [enrique@hackupc.com](mailto:gerard.madrid@hackupc.com).
-- Isaac Bassas, **@Isaac** in Slack, [isaac@hackupc.com](mailto:teresa@hackupc.com).
+- Maria Gil, **@Maria Gil** in Slack, [maria.gil@hackupc.com](mailto:maria.gil@hackupc.com).
+- Maria Farelo, **@Maria Farelo** in Slack, [maria.farelo@hackupc.com](mailto:maria.farelo@hackupc.com).
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
-Last Reviewed: February 1st, 2025.
+Last Reviewed: January 7th, 2026.
