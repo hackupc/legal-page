@@ -91,15 +91,24 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 ### Travel reimbursement
 
-After being accepted to HackUPC, once confirming your spot you will be able to opt for travel reimbursement. The maximum of the amount you can receive will be the minimum between the 50% of your travel expenses and the amount specified for your destination, the amount for each destination is decided by the organizing team with their criteria, taking in account the ticket price, the number of hackers that are requiring travel reimbursement and the budget. 
+After being accepted to HackUPC, once confirming your spot you will be able to opt for travel reimbursement. The maximum of the amount you can receive will be the minimum between the 50% of your travel expenses and the amount specified for your destination. The amount for each destination is decided by the organizing team according to their criteria, taking into account the ticket price, the number of hackers requesting travel reimbursement, and the available budget. 
 
 To be able to receive this money, it's mandatory to follow the instructions:
 
+*RECEIPT*
 - Provide the receipts of your travel expenses (plane, train or bus) to the organization team before the start of the event.
-- The receipts must be in the name of the participant that is requesting the reimbursement, with the breakdown of the price, the date of the purchase and the days of the travel.
-- The travel needs to be in the interval of 1 week before the event or 1 week after the event.
+- The receipts must be in the name of the participant requesting the reimbursement and must include a price breakdown, purchase date, and travel dates.
+- The travel dates must be within one week before or one week after the event. Consequently, between April 21st and May 5th (both included).
+
+*PROJECT*
 - The participant must demo a valid the project to the HackUPC judges.
-- The money will be transferred to the participant using PayPal in the following 60 days after the event.
+- The Devpost username must be similar to the participant’s real name. Usernames that do not reasonably resemble the real name (e.g. TheBest) will not be accepted.
+- The completeness of the GitHub repository and the Devpost will be taken into account, including aspects such as regular commits throughout the weekend or the Devpost including all the required sections.
+
+*ATTENDANCE*
+
+It must be demonstrable that the participant attended the event and stayed at the venue for a minimum period of participation. Attendance to meals, activities, workshops, and other official event activities may be taken into account to verify participation.
+
 
 ### Cheating
 
@@ -268,4 +277,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: July 19th, 2025.
+Last Reviewed: January 7h, 2026.
