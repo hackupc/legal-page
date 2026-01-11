@@ -17,7 +17,7 @@ For the purposes of this Agreement, the parties agree that, when used capitalize
 
 **The "Attendee"** refers to any User who decides to sign up accepting these T&C and participates in the event organized by the Organizer in any other role that is not the role of Participant. It includes the following: Sponsor, Judge, Mentor, Organizer, Volunteer and other attendees.
 
-**The event "HackUPC"** refers to the Event organized by the **Organizer**, which is a Hackathon. Hackathons are awesome events full of creativity, technology, and passionate tech-related students collaborating and creating. In 2023, HackUPC will be held in a fully in-person format.
+**The event "HackUPC"** refers to the Event organized by the **Organizer**, which is a Hackathon. Hackathons are awesome events full of creativity, technology, and passionate tech-related students collaborating and creating. This year, HackUPC will be held in a fully in-person format.
 
 **The "Swag"** refers to any gift provided by **The Organizer** or any HackUPC sponsor or partner in any physical or online form with no cost.
 
@@ -43,7 +43,7 @@ Remember that Hackathons are like marathons. Some people go to compete, but most
 
 1. There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for each member of the team, independently of the team size.
 1. Every team can only submit up to one project, although they can apply to multiple sponsor challenges and win multiple prizes with said project. 
-1. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in their free time, accepting the extra difficulty of hacking and volunteering at the same time, but their role won't give them any judging advantage in front of the rest of participants.
+1. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, volunteers, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in the activities, talks and workshops in their free time, but not in the hacking part. 
 1. All team members should be accepted into the hackathon by the organization and registered into the online platforms used before and during the event.
 1. All team members should be reachable by any member of the organization team during the event.
 1. All team members should be present at the event. Leaving the venue for some time to hack elsewhere or sleep is allowed, although it may compromise your eligibility for travel reimbursement.
@@ -277,4 +277,4 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
 
-Last Reviewed: January 7h, 2026.
+Last Reviewed: January 7th, 2026.
