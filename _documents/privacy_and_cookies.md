@@ -304,4 +304,4 @@ Everything related to Google's cookies, both analytical and advertising, as well
 
 If you choose to disable cookies, we may not be able to offer you some of our services.
 
-Last Reviewed: February 1st, 2025.
+Last Reviewed: January 7th, 2026.
