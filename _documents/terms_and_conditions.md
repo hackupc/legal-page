@@ -43,7 +43,8 @@ Remember that Hackathons are like marathons. Some people go to compete, but most
 
 1. There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for each member of the team, independently of the team size.
 1. Every team can only submit up to one project, although they can apply to multiple sponsor challenges and win multiple prizes with said project. 
-1. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, volunteers, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in the activities, talks and workshops in their free time, but not in the hacking part. 
+1. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, volunteers, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in the activities, talks and workshops in their free time, but not in the hacking part.
+1. Participants may not take part in a challenge proposed by a company with which they are currently or have been recently affiliated. This includes, but is not limited to, current employees, interns, or individuals with any ongoing or recent professional relationship with the company. Any violation of this rule may result in the disqualification of the team from that specific challenge. 
 1. All team members should be accepted into the hackathon by the organization and registered into the online platforms used before and during the event.
 1. All team members should be reachable by any member of the organization team during the event.
 1. All team members should be present at the event. Leaving the venue for some time to hack elsewhere or sleep is allowed, although it may compromise your eligibility for travel reimbursement.
@@ -275,6 +276,6 @@ This Agreement may be executed in counterparts or online, which taken together s
 
 ### No Third Party Beneficiaries
 
-This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement."
+This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
 
-Last Reviewed: January 7th, 2026.
+Last Reviewed: April 13th, 2026.
